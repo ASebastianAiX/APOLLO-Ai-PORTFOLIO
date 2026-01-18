@@ -1,5 +1,8 @@
-// @ts-check
 import { defineConfig } from 'astro/config';
 
-// https://astro.build/config
-export default defineConfig({});
+const isProd = process.env.NODE_ENV === 'production';
+
+export default defineConfig({
+  site: 'https://SebastianAiX.github.io',
+  base: isProd ? '/APOLLO-AI-PORTFOLIO' : '/',
+});
