@@ -1,22 +1,96 @@
-# APOLLO_AiX — Applied AI Systems Architect
+<div align="center">
 
-**GenAI · Machine Learning · Data Engineering · Secure AI Systems**
+<!-- ═══════════ HEADER ═══════════ -->
 
-*30+ years operations leadership · 20+ production deployments · 5 elite programs · Shipping weekly*
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Applied+AI+Systems+Architect;GenAI+%7C+ML+%7C+Data+Engineering+%7C+Secure+AI;30%2B+Years+Operations+%7C+20%2B+Systems+Deployed;Building+AI+That+Ships+Weekly)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/apollosebastian)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thaibox4u@gmail.com)
-[![Instagram](https://img.shields.io/badge/@apollo__aix-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/apollo_aix)
-![Profile Views](https://komarev.com/ghpvc/?username=ASebastianAiX&color=0e75b6&style=flat-square&label=Profile+Views)
+# Apollo Sebastian
+
+### APOLLO\_AiX &nbsp;·&nbsp; Building AI That Ships
+
+**GenAI &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Data Engineering &nbsp;·&nbsp; Secure AI Systems**
+
+<br>
+
+![Las Vegas](https://img.shields.io/badge/🇺🇸_Las_Vegas,_NV-0d1117?style=flat-square&labelColor=0d1117)
+![Marbella](https://img.shields.io/badge/🇪🇸_Marbella,_Spain-0d1117?style=flat-square&labelColor=0d1117)
+![Medellín](https://img.shields.io/badge/🇨🇴_Medellín,_Colombia-0d1117?style=flat-square&labelColor=0d1117)
+![Remote](https://img.shields.io/badge/🌐_Remote--First-0d1117?style=flat-square&labelColor=0d1117)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apollosebastian)
+[![Email](https://img.shields.io/badge/Email-C5401B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaibox4u@gmail.com)
+[![Instagram](https://img.shields.io/badge/@apollo__aix-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/apollo_aix)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ASebastianAiX.ASebastianAiX)
+
+</div>
 
 ---
 
-## What I Do
+<!-- ═══════════ METRICS ═══════════ -->
 
-I design and deploy **production-grade AI systems** — not academic exercises. Every project here solves a real business problem across Healthcare, Fitness, Real Estate, and Small Business.
+<div align="center">
 
-My work sits at the intersection of **30+ years of operations leadership** and **cutting-edge AI engineering** — giving me the rare ability to understand both the business problem and the technical solution required to fix it.
+| 30+ | 20+ | 5 | 4 | 🌍 |
+|:---:|:---:|:---:|:---:|:---:|
+| Years Operations Leadership | Production AI Systems Deployed | Concurrent Elite Programs | Industries Served | US + EU Work Auth |
 
+</div>
+
+---
+
+<!-- ═══════════ AT A GLANCE ═══════════ -->
+
+```python
+# ── Who I Am ───────────────────────────────────────────────────────────
+
+class Apollo(AppliedAIArchitect):
+
+    name         = "Apollo Sebastian"
+    alias        = "APOLLO_AiX"
+    role         = "Applied AI Systems Architect"
+    experience   = "30+ years healthcare operations · 20 years P&L ownership"
+    deployments  = 20    # production AI/ML systems, actively growing
+    programs     = 5     # concurrent elite certifications
+    industries   = ["Healthcare", "Fitness", "Real Estate", "Small Business"]
+    locations    = ["Las Vegas NV 🇺🇸", "Marbella Spain 🇪🇸", "Medellín Colombia 🇨🇴"]
+    work_auth    = ["United States", "European Union"]
+    availability = "Immediate"
+
+    differentiator = (
+        "Real business context. Real production systems."
+        "Not academic. Not theoretical. Shipping weekly."
+    )
+```
+
+---
+
+<!-- ═══════════ WHAT I BUILD ═══════════ -->
+
+## 🛠️ What I Build
+
+| 🤖 Generative AI & LLMs | 🔬 Machine Learning |
+|---|---|
+| RAG pipelines · LangGraph agents · Multi-Agent orchestration · AI copilots | Classification · Regression · Forecasting · Feature engineering · Predictive analytics |
+
+| 📊 Data Engineering & BI | 🏥 Healthcare AI |
+|---|---|
+| ETL pipelines · SQL agents · Apache Airflow · BI automation · Real-time analytics | Epic EMR integration · HIPAA-compliant AI · Clinical data analytics · 30+ years domain depth |
+
+---
+
+<!-- ═══════════ AVAILABILITY ═══════════ -->
+
+<div align="center">
+
+![Available](https://img.shields.io/badge/🟢_Status-Available_Now-3fb950?style=flat-square)
+&nbsp;
+![Open To](https://img.shields.io/badge/Open_To-Full--time_%7C_Contract_%7C_Consulting-58a6ff?style=flat-square)
+&nbsp;
+![Auth](https://img.shields.io/badge/Work_Auth-🇺🇸_US_+_🇪🇺_EU-bc8cff?style=flat-square)
+
+</div>
 ---
 
 ## Portfolio — 6 Active Repositories
