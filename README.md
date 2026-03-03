@@ -8,7 +8,7 @@
 
 ### APOLLO\_AiX &nbsp;·&nbsp; Building AI That Ships
 
-**GenAI &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Data Engineering &nbsp;·&nbsp; Secure AI Systems**
+**GenAI &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; AI Engineering &nbsp;·&nbsp; Secure AI Systems**
 
 <br>
 
