@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=APOLLO_AiX&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Applied%20AI%20Systems%20Architect%20%7C%20Building%20AI%20That%20Ships&descAlignY=52&descSize=16" width="100%"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=⚡+Applied+AI+Systems+Architect;🏭+20%2B+Production+AI+Systems+Deployed;🎓+5+Elite+Concurrent+Programs;🏥+30%2B+Years+Healthcare+Operations;🌍+Las+Vegas+·+Marbella+·+Medellín;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.)
+<br>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&height=30&lines=⚡+Applied+AI+Systems+Architect;🏭+20%2B+Production+AI+Systems+Deployed;🎓+5+Elite+Concurrent+Programs+Running;🏥+30%2B+Years+Healthcare+Operations;🌍+Las+Vegas+·+Marbella+·+Medellín;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.)
 
 <br>
 
@@ -11,18 +13,18 @@
 
 <br>
 
-![Las Vegas](https://img.shields.io/badge/🇺🇸-Las_Vegas_NV-0d1117?style=flat-square&labelColor=161b22&color=21262d)
-![Marbella](https://img.shields.io/badge/🇪🇸-Marbella_Spain-0d1117?style=flat-square&labelColor=161b22&color=21262d)
-![Medellín](https://img.shields.io/badge/🇨🇴-Medellín_Colombia-0d1117?style=flat-square&labelColor=161b22&color=21262d)
-![Remote](https://img.shields.io/badge/🌐-Remote_First-0d1117?style=flat-square&labelColor=161b22&color=21262d)
+![](https://img.shields.io/badge/🇺🇸%20Las%20Vegas%2C%20NV-%20-161b22?style=flat-square&labelColor=161b22&color=21262d)
+![](https://img.shields.io/badge/🇪🇸%20Marbella%2C%20Spain-%20-161b22?style=flat-square&labelColor=161b22&color=21262d)
+![](https://img.shields.io/badge/🇨🇴%20Medellín%2C%20Colombia-%20-161b22?style=flat-square&labelColor=161b22&color=21262d)
+![](https://img.shields.io/badge/🌐%20Remote--First-%20-161b22?style=flat-square&labelColor=161b22&color=21262d)
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apollosebastian)
-[![Email](https://img.shields.io/badge/Email-C5401B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaibox4u@gmail.com)
-[![Instagram](https://img.shields.io/badge/@apollo__aix-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/apollo_aix)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASebastianAiX/APOLLO-Ai-PORTFOLIO)
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ASebastianAiX.ASebastianAiX&style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaibox4u@gmail.com)
+[![Instagram](https://img.shields.io/badge/@apollo__aix-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/apollo_aix)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASebastianAiX/APOLLO-Ai-PORTFOLIO)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ASebastianAiX.ASebastianAiX&left_color=1a1f2e&right_color=0e75b6&left_text=Profile%20Views)
 
 </div>
 
@@ -30,7 +32,7 @@
 
 <div align="center">
 
-## 🎨 La Esencia de Lumina &nbsp;·&nbsp; Live Production App
+### 🎨 La Esencia de Lumina &nbsp;·&nbsp; Live Production App
 
 | | |
 |:---:|:---|
@@ -39,7 +41,7 @@
 | **⚡ Type** | Vibe Coding · AI-Assisted Development |
 | **📝 About** | Luxury fragrance web experience built through AI-assisted vibe coding |
 
-**[🚀 &nbsp; Visit the Live App ↗](https://la-esencia-de-lumina.replit.app)**
+[![Visit App](https://img.shields.io/badge/🚀%20Visit%20the%20Live%20App%20↗-6e40c9?style=for-the-badge)](https://la-esencia-de-lumina.replit.app)
 
 </div>
 
@@ -57,6 +59,7 @@
 </div>
 
 ---
+
 ```python
 # ── Who I Am ─────────────────────────────────────────────────────────────────
 
@@ -86,30 +89,34 @@ class Apollo(AppliedAIArchitect):
 
 <div align="center">
 
-**Generative AI & LLMs**
+**— Generative AI & LLMs —**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Machine Learning & Data Science**
+**— Machine Learning & Data Science —**
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
+![Prophet](https://img.shields.io/badge/Prophet-0068C8?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Cloud & Engineering**
+**— Cloud & Engineering —**
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -118,8 +125,8 @@ class Apollo(AppliedAIArchitect):
 ## 🗂️ Portfolio — Live Apps & Active Repositories
 
 | Repository | Type | Focus | Status |
-|:----------|:-----|:------|:------:|
-| 🎨 [**La Esencia de Lumina**](https://github.com/ASebastianAiX/La-Esencia-de-Lumina) &nbsp; **[→ Live App ↗](https://la-esencia-de-lumina.replit.app)** | Vibe Coding | AI-assisted luxury fragrance web experience — deployed on Replit | `✅ LIVE` |
+|:-----------|:-----|:------|:------:|
+| 🎨 [**La Esencia de Lumina**](https://github.com/ASebastianAiX/La-Esencia-de-Lumina) &nbsp;·&nbsp; **[→ Live App ↗](https://la-esencia-de-lumina.replit.app)** | Vibe Coding | AI-assisted luxury fragrance web experience — deployed & live on Replit | `✅ LIVE` |
 | 🚀 [**Production AI Systems**](https://github.com/ASebastianAiX/APOLLO-AiX-Production-Systems) | Independent | 20+ live deployed systems — Healthcare · Fitness · Real Estate · SMB | `✅ Active` |
 | 🤖 [**BSU GenAI Bootcamp**](https://github.com/ASebastianAiX/BSU-GenAI-Bootcamp-Portfolio) | Business Science University | RAG pipelines · LangGraph · Multi-Agent · AI Forecasting | `✅ Active` |
 | 🎓 [**UT Austin AI/ML**](https://github.com/ASebastianAiX/UT-Austin-AIML-Portfolio) | UT Austin McCombs | Machine Learning · Classification · Predictive Analytics | `🔄 2 of 7` |
@@ -141,23 +148,28 @@ class Apollo(AppliedAIArchitect):
 
 <br>
 
-🟠 &nbsp; **Business Science University** &nbsp;·&nbsp; *Generative AI for Data Scientists — Professional Bootcamp*
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Dec 2025 – Mar 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/4%2F7_Modules-f0883e?style=flat-square) &nbsp;·&nbsp; RAG · LangGraph · AI Agents · Multi-Agent Systems
+🟠 &nbsp;**Business Science University** &nbsp;·&nbsp; ⭐ Flagship Program
+> **Generative AI for Data Scientists — Professional Bootcamp** &nbsp;·&nbsp; `Dec 2025 – Mar 2026`
+> ![](https://img.shields.io/badge/4%2F7%20Modules-f0883e?style=flat-square) &nbsp; RAG · LangGraph · AI Agents · Multi-Agent Systems · Prophet Forecasting
 
-🔵 &nbsp; **UT Austin McCombs School of Business** &nbsp;·&nbsp; *AI & Machine Learning Professional Certificate*
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Nov 2025 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/2%2F7_Projects-58a6ff?style=flat-square) &nbsp;·&nbsp; ML Algorithms · Classification · NLP · EDA
+🔵 &nbsp;**University of Texas at Austin — McCombs School of Business**
+> **AI & Machine Learning Professional Certificate** &nbsp;·&nbsp; `Nov 2025 – Jul 2026`
+> ![](https://img.shields.io/badge/2%2F7%20Projects-58a6ff?style=flat-square) &nbsp; ML Algorithms · Classification · Predictive Modeling · NLP · EDA
 
-🟣 &nbsp; **Purdue University / Simplilearn** &nbsp;·&nbsp; *Microsoft AI Engineer Professional Certificate*
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Jan 2026 – Aug 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/5%2F23_Projects-bc8cff?style=flat-square) &nbsp;·&nbsp; Azure AI · NLP · Computer Vision
+🟣 &nbsp;**Purdue University / Simplilearn**
+> **Microsoft AI Engineer Professional Certificate** &nbsp;·&nbsp; `Jan 2026 – Aug 2026`
+> ![](https://img.shields.io/badge/5%2F23%20Projects-bc8cff?style=flat-square) &nbsp; Azure AI Services · NLP · Computer Vision · Cloud ML Deployment
 
-🔴 &nbsp; **Johns Hopkins University — Whiting School of Engineering** &nbsp;·&nbsp; *Cybersecurity: IT & Data Security in the Age of AI*
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Mar 2026 – Aug 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/In_Progress-f85149?style=flat-square) &nbsp;·&nbsp; Network Security · Threat Modeling · AI Ethics
+🔴 &nbsp;**Johns Hopkins University — Whiting School of Engineering**
+> **Cybersecurity: IT & Data Security in the Age of AI** &nbsp;·&nbsp; `Mar 2026 – Aug 2026`
+> ![](https://img.shields.io/badge/In%20Progress-f85149?style=flat-square) &nbsp; Network Security · Threat Modeling · AI Ethics · Risk Management
 
-🟢 &nbsp; **Purdue University / Simplilearn** &nbsp;·&nbsp; *Professional Certificate in Data Engineering*
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Oct 2026 – Apr 2027` &nbsp;·&nbsp; ![](https://img.shields.io/badge/Enrolled-3fb950?style=flat-square) &nbsp;·&nbsp; ETL · Apache Airflow · Data Warehousing · dbt
+🟢 &nbsp;**Purdue University / Simplilearn**
+> **Professional Certificate in Data Engineering** &nbsp;·&nbsp; `Oct 2026 – Apr 2027`
+> ![](https://img.shields.io/badge/Enrolled-3fb950?style=flat-square) &nbsp; ETL Pipelines · Apache Airflow · Data Warehousing · dbt · Big Data
 
 <details>
-<summary>📖 &nbsp; Foundation & Prior Education</summary>
+<summary><b>📖 &nbsp; Foundation & Prior Education — Click to Expand</b></summary>
 <br>
 
 | Institution | Program |
@@ -174,31 +186,31 @@ class Apollo(AppliedAIArchitect):
 
 ## 🏆 What Sets This Portfolio Apart
 
-| | Factor | Why It Matters |
-|:---:|:-------|:--------------|
+| &nbsp; | Factor | Why It Matters |
+|:------:|:-------|:--------------|
 | 🏭 | **Production Over Academic** | 20+ systems live and serving real users — not classroom notebooks or toy projects |
 | 🏥 | **30 Years Domain Depth** | Healthcare operations + Epic EMR expertise that junior AI engineers simply cannot replicate |
 | 💼 | **P&L Accountability** | 20 years business ownership — AI decisions tied to revenue, not just model metrics |
-| ⚡ | **Real-Time Skill Delivery** | 5 elite concurrent programs with skills applied directly into production the same week |
+| ⚡ | **Real-Time Skill Delivery** | 5 elite programs running simultaneously — skills applied to production the same week |
 | 🌍 | **Global Execution** | US · Spain · Colombia — US and EU work authorization · Multi-jurisdiction operations |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Apollo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASebastianAiX&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&rank_icon=github)
+<img src="https://github-readme-stats.vercel.app/api?username=ASebastianAiX&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&rank_icon=github&include_all_commits=true" height="180"/>
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASebastianAiX&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASebastianAiX&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180"/>
 
-<br>
+<br><br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ASebastianAiX&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ASebastianAiX&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="600"/>
 
-<br>
+<br><br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ASebastianAiX&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASebastianAiX&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=58a6ff&hide_border=true" width="100%"/>
 
 </div>
 
@@ -206,18 +218,18 @@ class Apollo(AppliedAIArchitect):
 
 <div align="center">
 
-![Available](https://img.shields.io/badge/🟢_Status-Available_Now-3fb950?style=for-the-badge)
+![Available](https://img.shields.io/badge/🟢%20Status-Available%20Now-3fb950?style=for-the-badge)
 &nbsp;
-![Open To](https://img.shields.io/badge/Open_To-Full--time_%7C_Contract_%7C_Consulting-58a6ff?style=for-the-badge)
+![Open To](https://img.shields.io/badge/Open%20To-Full--time%20%7C%20Contract%20%7C%20Consulting-58a6ff?style=for-the-badge)
 &nbsp;
-![Auth](https://img.shields.io/badge/Work_Auth-🇺🇸_US_+_🇪🇺_EU-bc8cff?style=for-the-badge)
+![Auth](https://img.shields.io/badge/Work%20Auth-🇺🇸%20US%20%2B%20🇪🇺%20EU-bc8cff?style=for-the-badge)
 
 <br>
 
-*"30 years of operations. 20+ AI systems in production. Still shipping every week."*
+> *"30 years of operations. 20+ AI systems in production. Still shipping every week."*
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
