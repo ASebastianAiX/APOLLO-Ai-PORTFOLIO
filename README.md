@@ -1,30 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=APOLLO_AiX&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Applied%20AI%20Systems%20Architect%20%7C%20Building%20AI%20That%20Ships&descAlignY=52&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<br>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&height=30&lines=⚡+Applied+AI+Systems+Architect;🏭+20%2B+Production+AI+Systems+Deployed;🎓+5+Elite+Concurrent+Programs+Running;🏥+30%2B+Years+Healthcare+Operations;🌍+Las+Vegas+·+Marbella+·+Medellín;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.)
-
-<br>
+<p>
+  ⚡ <b>Applied AI Systems Architect</b>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  🏭 <b>20+ Production Systems</b>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  🚀 <b>Shipping Weekly</b>
+</p>
 
 # Apollo Sebastian
 ### `APOLLO_AiX` &nbsp;·&nbsp; Building AI That Ships
 
 <br>
 
-![](https://img.shields.io/badge/🇺🇸%20Las%20Vegas%2C%20NV-%20-161b22?style=flat-square&labelColor=161b22&color=21262d)
-![](https://img.shields.io/badge/🇪🇸%20Marbella%2C%20Spain-%20-161b22?style=flat-square&labelColor=161b22&color=21262d)
-![](https://img.shields.io/badge/🇨🇴%20Medellín%2C%20Colombia-%20-161b22?style=flat-square&labelColor=161b22&color=21262d)
-![](https://img.shields.io/badge/🌐%20Remote--First-%20-161b22?style=flat-square&labelColor=161b22&color=21262d)
+![Las Vegas](https://img.shields.io/badge/🇺🇸-Las_Vegas_NV-0d1117?style=flat-square&labelColor=161b22&color=21262d)
+![Marbella](https://img.shields.io/badge/🇪🇸-Marbella_Spain-0d1117?style=flat-square&labelColor=161b22&color=21262d)
+![Medellín](https://img.shields.io/badge/🇨🇴-Medellín_Colombia-0d1117?style=flat-square&labelColor=161b22&color=21262d)
+![Remote](https://img.shields.io/badge/🌐-Remote_First-0d1117?style=flat-square&labelColor=161b22&color=21262d)
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apollosebastian)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaibox4u@gmail.com)
-[![Instagram](https://img.shields.io/badge/@apollo__aix-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/apollo_aix)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASebastianAiX/APOLLO-Ai-PORTFOLIO)
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ASebastianAiX.ASebastianAiX&left_color=1a1f2e&right_color=0e75b6&left_text=Profile%20Views)
+[![Email](https://img.shields.io/badge/Email-C5401B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaibox4u@gmail.com)
+[![Instagram](https://img.shields.io/badge/@apollo__aix-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/apollo_aix)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASebastianAiX/APOLLO-Ai-PORTFOLIO)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ASebastianAiX.ASebastianAiX&style=for-the-badge)
 
 </div>
 
@@ -196,21 +198,22 @@ class Apollo(AppliedAIArchitect):
 
 ---
 
-## 📊 GitHub Activity
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ASebastianAiX&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&rank_icon=github&include_all_commits=true" height="180"/>
+![Apollo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASebastianAiX&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&rank_icon=github)
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASebastianAiX&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASebastianAiX&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-<br><br>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ASebastianAiX&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="600"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ASebastianAiX&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e)
 
-<br><br>
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASebastianAiX&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=58a6ff&hide_border=true" width="100%"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ASebastianAiX&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&hide_border=true)
 
 </div>
 
@@ -218,18 +221,18 @@ class Apollo(AppliedAIArchitect):
 
 <div align="center">
 
-![Available](https://img.shields.io/badge/🟢%20Status-Available%20Now-3fb950?style=for-the-badge)
+![Available](https://img.shields.io/badge/🟢_Status-Available_Now-3fb950?style=for-the-badge)
 &nbsp;
-![Open To](https://img.shields.io/badge/Open%20To-Full--time%20%7C%20Contract%20%7C%20Consulting-58a6ff?style=for-the-badge)
+![Open To](https://img.shields.io/badge/Open_To-Full--time_%7C_Contract_%7C_Consulting-58a6ff?style=for-the-badge)
 &nbsp;
-![Auth](https://img.shields.io/badge/Work%20Auth-🇺🇸%20US%20%2B%20🇪🇺%20EU-bc8cff?style=for-the-badge)
+![Auth](https://img.shields.io/badge/Work_Auth-🇺🇸_US_+_🇪🇺_EU-bc8cff?style=for-the-badge)
 
 <br>
 
-> *"30 years of operations. 20+ AI systems in production. Still shipping every week."*
+*"30 years of operations. 20+ AI systems in production. Still shipping every week."*
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
