@@ -130,10 +130,10 @@ class Apollo(AppliedAIArchitect):
 |:-----------|:-----|:------|:------:|
 | 🎨 [**La Esencia de Lumina**](https://github.com/ASebastianAiX/La-Esencia-de-Lumina) &nbsp;·&nbsp; **[→ Live App ↗](https://la-esencia-de-lumina.replit.app)** | Vibe Coding | AI-assisted luxury fragrance web experience — deployed & live on Replit | `✅ LIVE` |
 | 🚀 [**Production AI Systems**](https://github.com/ASebastianAiX/APOLLO-AiX-Production-Systems) | Independent | 20+ live deployed systems — Healthcare · Fitness · Real Estate · SMB | `✅ Active` |
-| 🤖 [**BSU GenAI Bootcamp**](https://github.com/ASebastianAiX/BSU-GenAI-Bootcamp-Portfolio) | Business Science University | RAG pipelines · LangGraph · Multi-Agent · AI Forecasting | `✅ Active` |
-| 🎓 [**UT Austin AI/ML**](https://github.com/ASebastianAiX/UT-Austin-AIML-Portfolio) | UT Austin McCombs | Machine Learning · Classification · Predictive Analytics | `🔄 2 of 7` |
-| ⚙️ [**Purdue AI Engineering**](https://github.com/ASebastianAiX/Purdue-AI-Engineering-Portfolio) | Purdue · Simplilearn | Azure AI · NLP · Computer Vision · GitHub Copilot | `🔄 5 of 23` |
-| 🔐 [**JHU Cybersecurity**](https://github.com/ASebastianAiX/JHU-Cybersecurity-Portfolio) | Johns Hopkins Whiting | Network Security · Secure AI · Risk Management | `🔄 Active` |
+| 🤖 [**BSU GenAI Bootcamp**](https://github.com/ASebastianAiX/BSU-GenAI-Bootcamp-Portfolio) | Business Science University | RAG pipelines · LangGraph · Multi-Agent · AI Forecasting | `✅ Completed` |
+| 🎓 [**UT Austin AI/ML**](https://github.com/ASebastianAiX/UT-Austin-AIML-Portfolio) | UT Austin McCombs | Machine Learning · Classification · Predictive Analytics | `🔄 4 of 7` |
+| ⚙️ [**Purdue AI Engineering**](https://github.com/ASebastianAiX/Purdue-AI-Engineering-Portfolio) | Purdue · Simplilearn | Azure AI · NLP · Computer Vision · GitHub Copilot | `🔄 11 of 23` |
+| 🔐 [**JHU Cybersecurity**](https://github.com/ASebastianAiX/JHU-Cybersecurity-Portfolio) | Johns Hopkins Whiting | Network Security · Secure AI · Risk Management | `🔄 1 of 8` |
 | 🏗️ [**Purdue Data Engineering**](https://github.com/ASebastianAiX/Purdue-Data-Engineering-Portfolio) | Purdue · Simplilearn | ETL Pipelines · Apache Airflow · Data Warehousing | `🔜 Oct 2026` |
 
 ---
@@ -142,29 +142,31 @@ class Apollo(AppliedAIArchitect):
 
 <div align="center">
 
-| 5 | 11+ | 4 | 2027 |
+| 5 | 56+ | 4 | 2027 |
 |:---:|:---:|:---:|:---:|
 | **Concurrent Programs** | **Projects Complete** | **Elite Institutions** | **Final Completion** |
 
 </div>
 
+> 56+ completed projects include: AI/ML · GenAI · Data Engineering · Cybersecurity · Azure AI · 4 full-stack web/app builds in progress · 2 software development projects
+
 <br>
 
 🟠 &nbsp;**Business Science University** &nbsp;·&nbsp; ⭐ Flagship Program
 > **Generative AI for Data Scientists — Professional Bootcamp** &nbsp;·&nbsp; `Dec 2025 – Mar 2026`
-> ![](https://img.shields.io/badge/4%2F7%20Modules-f0883e?style=flat-square) &nbsp; RAG · LangGraph · AI Agents · Multi-Agent Systems · Prophet Forecasting
+> ![](https://img.shields.io/badge/7%2F7%20Modules-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/40%2B%20Projects-f0883e?style=flat-square) &nbsp; RAG · LangGraph · AI Agents · Multi-Agent Systems · Prophet Forecasting
 
 🔵 &nbsp;**University of Texas at Austin — McCombs School of Business**
 > **AI & Machine Learning Professional Certificate** &nbsp;·&nbsp; `Nov 2025 – Jul 2026`
-> ![](https://img.shields.io/badge/2%2F7%20Projects-58a6ff?style=flat-square) &nbsp; ML Algorithms · Classification · Predictive Modeling · NLP · EDA
+> ![](https://img.shields.io/badge/4%2F7%20Projects-58a6ff?style=flat-square) &nbsp; ML Algorithms · Classification · Predictive Modeling · NLP · EDA
 
 🟣 &nbsp;**Purdue University / Simplilearn**
 > **Microsoft AI Engineer Professional Certificate** &nbsp;·&nbsp; `Jan 2026 – Aug 2026`
-> ![](https://img.shields.io/badge/5%2F23%20Projects-bc8cff?style=flat-square) &nbsp; Azure AI Services · NLP · Computer Vision · Cloud ML Deployment
+> ![](https://img.shields.io/badge/11%2F23%20Projects-bc8cff?style=flat-square) &nbsp; Azure AI Services · NLP · Computer Vision · Cloud ML Deployment
 
 🔴 &nbsp;**Johns Hopkins University — Whiting School of Engineering**
 > **Cybersecurity: IT & Data Security in the Age of AI** &nbsp;·&nbsp; `Mar 2026 – Aug 2026`
-> ![](https://img.shields.io/badge/In%20Progress-f85149?style=flat-square) &nbsp; Network Security · Threat Modeling · AI Ethics · Risk Management
+> ![](https://img.shields.io/badge/1%2F8%20Projects-f85149?style=flat-square) &nbsp; Network Security · Threat Modeling · AI Ethics · Risk Management
 
 🟢 &nbsp;**Purdue University / Simplilearn**
 > **Professional Certificate in Data Engineering** &nbsp;·&nbsp; `Oct 2026 – Apr 2027`
