@@ -4,7 +4,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=30&lines=🏆+Capstone+Competition+Winner+—+BSU+GenAI+2026;🤖+RAG+·+LangGraph+·+Multi-Agent+·+AWS+Bedrock+·+MCP;🏥+35%2B+Years+Healthcare+%26+Fitness+Operations;📊+60%2B+Projects+Shipped+Across+6+Elite+Programs;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=30&lines=🏆+Capstone+Competition+Winner+—+BSU+GenAI+2026;🎓+BSU+GenAI+Bootcamp+—+Fully+Certified;🤖+RAG+%7C+LangGraph+%7C+Multi-Agent+%7C+AWS+Bedrock+%7C+MCP;🏥+35%2B+Years+Healthcare+%26+Fitness+Operations;📊+70%2B+Projects+Shipped+Across+6+Elite+Programs;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.)
 
 <br>
 
@@ -28,10 +28,10 @@
 
 ## ⚡ At a Glance
 
-| 🏆 | 60+ | 6 | 35+ | 🌍 |
+| 🏆 | 70+ | 6 | 35+ | 🌍 |
 |:---:|:---:|:---:|:---:|:---:|
 | **Capstone** | **Projects** | **Elite** | **Years** | **US + EU** |
-| **Competition Winner** | **Completed** | **Programs** | **Operations** | **Work Auth** |
+| **Competition Winner · Certified** | **Completed** | **Programs** | **Operations** | **Work Auth** |
 
 </div>
 
@@ -39,7 +39,7 @@
 
 ## 🎯 What This Portfolio Represents
 
-> *I build production-grade AI systems — not academic exercises. Every project ships functional, real-world applications. 35 years of operations leadership. 60+ projects completed. Building at the intersection of enterprise experience and cutting-edge AI — weekly.*
+> *I build production-grade AI systems — not academic exercises. Python is my primary language — production scripts, FastAPI services, and AI pipelines. 35 years of operations leadership. 70+ projects completed. Building at the intersection of enterprise experience and cutting-edge AI — weekly.*
 
 | Domain | What Gets Built |
 |:-------|:----------------|
@@ -81,20 +81,20 @@
 
 | Repository | Institution | Focus | Status |
 |:-----------|:------------|:------|:------:|
-| 🏆 [**GENERATIVE-AI-DATA-SCIENCE**](https://github.com/ASebastianAiX/GENERATIVE-AI-DATA-SCIENCE) | Business Science University | RAG · LangGraph · Multi-Agent · SQL Agents · AWS Bedrock · MCP | `✅ Completed` |
-| 🎓 [**Ai-MACHINE-LEARNING**](https://github.com/ASebastianAiX/Ai-MACHINE-LEARNING) | UT Austin McCombs | Machine Learning · Classification · Predictive Analytics · NLP | `🔄 5 of 9` |
-| ⚙️ [**AI-ENGINEERING-**](https://github.com/ASebastianAiX/AI-ENGINEERING-) | Purdue · Simplilearn | Azure AI · NLP · Computer Vision · GitHub Copilot | `🔄 11 of 23` |
-| 🔐 **CYBERSECURITY** *(Private)* | Johns Hopkins Whiting | Network Security · Secure AI · Risk Management | `🔄 1 of 8` |
+| 🏆 [**GENERATIVE-AI-DATA-SCIENCE**](https://github.com/ASebastianAiX/GENERATIVE-AI-DATA-SCIENCE) | Business Science University | RAG · LangGraph · Multi-Agent · SQL Agents · AWS Bedrock · MCP | `✅ Certified` |
+| 🎓 [**Ai-MACHINE-LEARNING**](https://github.com/ASebastianAiX/Ai-MACHINE-LEARNING) | UT Austin McCombs | Machine Learning · Classification · Predictive Analytics · NLP | `🔄 6 of 9` |
+| ⚙️ [**AI-ENGINEERING-**](https://github.com/ASebastianAiX/AI-ENGINEERING-) | Purdue · Simplilearn | Azure AI · NLP · Computer Vision · GitHub Copilot | `🔄 14 of 23` |
+| 🔐 **CYBERSECURITY** *(Private)* | Johns Hopkins Whiting | Network Security · Secure AI · Risk Management | `🔄 3 of 9` |
 | 🏗️ **AI-DATA-ENGINEERING-** *(Private)* | Purdue · Simplilearn | ETL · Apache Airflow · Data Warehousing · dbt | `🔜 Oct 2026` |
-| 🎓 **[ASU — Enrolled]** | Arizona State University | BS Data Science · Software Dev & BI Analytics | `🔄 May 2026–Dec 2027` |
+| 🎓 **[ASU — In Progress]** | Arizona State University | BS Data Science · Software Dev & BI Analytics | `🔄 May 2026–Dec 2027` |
 
-### 🔒 Production Platforms — Private & Near Launch
+### 🔒 Production Platforms — Near Launch *(Private)*
 
 | Platform | Description | Stack |
 |:---------|:------------|:------|
-| 🏥 **medflow-ai** | Healthcare Intelligence Platform — AI Patient Data Extraction & EHR · HIPAA-compliant | Python · OpenAI · HIPAA · FastAPI |
-| 🏗️ **buildflow-ai** | Construction Intelligence Platform — AI-Powered Bid Estimation, SOW & Risk Analysis | Python · AI · FastAPI · React |
-| 🏖️ **boho-beach-club-ai** | Luxury Event Operations Platform — AI customer support, revenue analytics & fraud detection | Python · AI · React · PostgreSQL |
+| 🏥 **medflow-ai** | Healthcare Intelligence — AI Patient Data Extraction & EHR · HIPAA-compliant | Python · OpenAI · HIPAA · FastAPI |
+| 🏗️ **buildflow-ai** | Construction Intelligence — AI-Powered Bid Estimation, SOW & Risk Analysis | Python · AI · FastAPI · React |
+| 🏖️ **boho-beach-club-ai** | Luxury Event Operations — AI customer support, revenue analytics & fraud detection | Python · AI · React · PostgreSQL |
 
 ---
 
@@ -102,7 +102,7 @@
 
 <div align="center">
 
-| 6 | 60+ | 5 | 2027 |
+| 6 | 70+ | 5 | 2027 |
 |:---:|:---:|:---:|:---:|
 | **Concurrent Programs** | **Projects Complete** | **Elite Institutions** | **Final Completion** |
 
@@ -110,20 +110,20 @@
 
 <br>
 
-🟠 &nbsp;**Business Science University** &nbsp;·&nbsp; ⭐ Flagship &nbsp;·&nbsp; 🏆 **Capstone Competition Winner**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Dec 2025 – Apr 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/7%2F7%20Modules%20✅-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/40%2B%20Projects-f0883e?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏆%20Capstone%20Winner-c9a84c?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAG · LangGraph · AI Agents · Multi-Agent · SQL Agents · AWS Bedrock · MCP · Production Deployment
+🟠 &nbsp;**Business Science University** &nbsp;·&nbsp; ⭐ Flagship &nbsp;·&nbsp; 🏆 **Capstone Competition Winner · Fully Certified**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Dec 2025 – Apr 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/7%2F7%20Modules%20✅-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/40%2B%20Projects-f0883e?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏆%20Capstone%20Winner-c9a84c?style=flat-square) &nbsp;![](https://img.shields.io/badge/🎓%20Certified-3fb950?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAG · LangGraph · AI Agents · Multi-Agent · SQL Agents · AWS Bedrock · MCP · Production Deployment · Portfolio Submission Complete
 
 🔵 &nbsp;**University of Texas at Austin — McCombs School of Business**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Nov 2025 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/5%2F9%20Projects-58a6ff?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Nov 2025 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/6%2F9%20Projects-58a6ff?style=flat-square)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FoodHub Analysis · Personal Loan Campaign (85%+ accuracy) · Easy Visa · ML Algorithms · NLP · EDA
 
 🟣 &nbsp;**Purdue University / Simplilearn**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Jan 2026 – Aug 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/11%2F23%20Projects-bc8cff?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Jan 2026 – Aug 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/14%2F23%20Projects-bc8cff?style=flat-square)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azure AI · NLP · Computer Vision · Sales Analysis · Walmart · Mercedes-Benz · Employee Turnover
 
 🔴 &nbsp;**Johns Hopkins University — Whiting School of Engineering**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Feb 2026 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/1%2F8%20Projects-f85149?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Feb 2026 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/3%2F9%20Projects-f85149?style=flat-square)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Network Security · AI Security · Threat Modeling · Risk Management · AI Ethics · GDPR
 
 🟢 &nbsp;**Purdue University / Simplilearn**
@@ -191,9 +191,9 @@
 
 | &nbsp; | Edge | What It Means |
 |:------:|:-----|:--------------|
-| 🏆 | **Capstone Competition Winner** | BSU GenAI 2026 — recognized for building deployable production GenAI systems, not proofs of concept |
-| 🏭 | **Production Over Academic** | 60+ projects completed — real systems solving real problems, not classroom notebooks |
-| 🏥 | **35 Years Domain Depth** | Healthcare operations + Epic EMR across ICU, NICU, PICU, ER — junior AI engineers can't replicate this |
+| 🏆 | **Capstone Competition Winner · Certified** | BSU GenAI 2026 — full certification earned with portfolio submission complete |
+| 🏭 | **Production Over Academic** | 70+ projects — Python production systems, AI pipelines, deployed apps. Not notebooks. |
+| 🏥 | **35 Years Domain Depth** | Healthcare ops + Epic EMR across ICU, NICU, PICU, ER — irreplaceable real-world context |
 | 💼 | **P&L Accountability** | 20 years business ownership — AI built for ROI, not just accuracy metrics |
 | ⚡ | **Real-Time Skill Delivery** | 6 concurrent programs — skills applied to production the same week they're learned |
 | 🌍 | **Global Execution** | US · Spain · Colombia — US & EU work authorization · Remote-first operations |
@@ -210,7 +210,7 @@
 
 <br>
 
-> *"35 years of operations. 60+ projects shipped. Capstone Competition Winner. Still building every week."*
+> *"35 years of operations. 70+ projects shipped. Capstone Competition Winner. Fully Certified. Still building every week."*
 
 <br>
 
