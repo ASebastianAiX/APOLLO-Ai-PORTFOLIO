@@ -4,15 +4,15 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=30&lines=🏆+Capstone+Competition+Winner+—+BSU+GenAI+2026;🎓+BSU+GenAI+Bootcamp+—+Fully+Certified;🤖+RAG+%7C+LangGraph+%7C+Multi-Agent+%7C+AWS+Bedrock+%7C+MCP;🏥+35%2B+Years+Healthcare+%26+Fitness+Operations;📊+70%2B+Projects+Shipped+Across+6+Elite+Programs;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=30&lines=🏆+Capstone+Competition+Winner+—+BSU+GenAI+2026+%7C+Fully+Certified;🥋+AxioMove+AI+—+Live+AI+OS+for+Martial+Arts+%26+Fitness;🤖+RAG+%7C+LangGraph+%7C+Multi-Agent+%7C+AWS+Bedrock+%7C+MCP;🎓+UT+Austin+%7C+Johns+Hopkins+%7C+MITxPRO+%7C+ASU+%7C+Microsoft;📊+70%2B+Projects+Shipped+Across+6+Elite+Programs;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.)
 
 <br>
 
+[![Website](https://img.shields.io/badge/🌐%20apolloaix.com-0d1117?style=for-the-badge&logoColor=white)](https://apolloaix.com/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apollosebastian)&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaibox4u@gmail.com)&nbsp;
+[![Email](https://img.shields.io/badge/Apollo.Sebastian@apolloaix.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Apollo.Sebastian@apolloaix.com)&nbsp;
 [![Instagram](https://img.shields.io/badge/@apollo__aix-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/apollo_aix)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASebastianAiX)&nbsp;
-[![Live App](https://img.shields.io/badge/🎨%20Live%20App%20↗-6e40c9?style=for-the-badge)](https://la-esencia-de-lumina.replit.app)
+[![GitHub](https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASebastianAiX)
 
 <br>
 
@@ -47,35 +47,20 @@
 | 🔬 **Machine Learning** | Classification · Regression · Forecasting · Ensemble methods · AutoML (H2O.ai) |
 | 📊 **Data Engineering** | SQL agents · ETL pipelines · BI automation · Apache Airflow · dbt · PostgreSQL |
 | 🏥 **Healthcare AI** | Epic EMR integration · HIPAA/GDPR-compliant systems · Clinical data analytics |
-| 💼 **Production SaaS** | MedFlow AI · BuildFlow AI · Boho Beach Club · Sebastian Atlas MLS |
-
----
-
-## 🎨 Live Production App
-
-<div align="center">
-
-| | |
-|:---:|:---|
-| **🟢 LIVE NOW** | **[→ la-esencia-de-lumina.replit.app](https://la-esencia-de-lumina.replit.app)** |
-| **Type** | Vibe Coding · AI-Assisted Development |
-| **Description** | Luxury fragrance web experience — built through AI collaboration, fully deployed |
-
-[![Visit Live App](https://img.shields.io/badge/🚀%20Visit%20the%20Live%20App%20↗-6e40c9?style=for-the-badge)](https://la-esencia-de-lumina.replit.app)
-
-</div>
+| 🥋 **Fitness & Studio AI** | Full AI OS for martial arts & fitness studios — CRM · billing · scheduling · analytics |
+| 💼 **Production SaaS** | MedFlow AI · BuildFlow AI · Boho Beach Club · AxioMove AI · Kreative Construction · UrCIRCLE |
 
 ---
 
 ## 🗂️ Complete Repository Map
 
-### ✅ Live & Production Active
+### ✅ Active Repositories
 
 | Repository | Focus | Status |
 |:-----------|:------|:------:|
-| 🎨 [**La-Esencia-De-Lumina**](https://github.com/ASebastianAiX/La-Esencia-De-Lumina) &nbsp;·&nbsp; **[→ Live App ↗](https://la-esencia-de-lumina.replit.app)** | AI-assisted vibe-coded luxury fragrance experience — deployed & live on Replit | `✅ LIVE` |
 | 🚀 [**ASebastianAiX**](https://github.com/ASebastianAiX/ASebastianAiX) | 20+ production AI/ML systems — Healthcare · Fitness · Real Estate · SMB | `✅ Active` |
 | 📋 [**APOLLO-Ai-PORTFOLIO**](https://github.com/ASebastianAiX/APOLLO-Ai-PORTFOLIO) | Central hub linking all repositories, programs, and production systems | `✅ You Are Here` |
+| 🎨 [**La-Esencia-De-Lumina**](https://github.com/ASebastianAiX/La-Esencia-De-Lumina) &nbsp;·&nbsp; **[→ Live ↗](https://la-esencia-de-lumina.replit.app)** | Vibe-coded luxury fragrance experience — live, social integration pending | `🟡 Live · Integrating` |
 
 ### 🎓 Certification Program Repositories
 
@@ -83,18 +68,22 @@
 |:-----------|:------------|:------|:------:|
 | 🏆 [**GENERATIVE-AI-DATA-SCIENCE**](https://github.com/ASebastianAiX/GENERATIVE-AI-DATA-SCIENCE) | Business Science University | RAG · LangGraph · Multi-Agent · SQL Agents · AWS Bedrock · MCP | `✅ Certified` |
 | 🎓 [**Ai-MACHINE-LEARNING**](https://github.com/ASebastianAiX/Ai-MACHINE-LEARNING) | UT Austin McCombs | Machine Learning · Classification · Predictive Analytics · NLP | `🔄 6 of 9` |
-| ⚙️ [**AI-ENGINEERING-**](https://github.com/ASebastianAiX/AI-ENGINEERING-) | Purdue · Simplilearn | Azure AI · NLP · Computer Vision · GitHub Copilot | `🔄 14 of 23` |
-| 🔐 **CYBERSECURITY** *(Private)* | Johns Hopkins Whiting | Network Security · Secure AI · Risk Management | `🔄 3 of 9` |
-| 🏗️ **AI-DATA-ENGINEERING-** *(Private)* | Purdue · Simplilearn | ETL · Apache Airflow · Data Warehousing · dbt | `🔜 Oct 2026` |
-| 🎓 **[ASU — In Progress]** | Arizona State University | BS Data Science · Software Dev & BI Analytics | `🔄 May 2026–Dec 2027` |
+| ⚙️ [**AI-ENGINEERING-**](https://github.com/ASebastianAiX/AI-ENGINEERING-) | Microsoft AI Engineer | Azure AI · NLP · Computer Vision · GitHub Copilot | `🔄 14 of 23` |
+| 🛡️ [**CYBERSECURITY**](https://github.com/ASebastianAiX/CYBERSECURITY) | Johns Hopkins Whiting | Network Security · Secure AI · Risk Management · HIPAA/GDPR | `🔄 3 of 9` |
+| 📊 [**AI-DATA-ENGINEERING-MITxPRO**](https://github.com/ASebastianAiX/AI-DATA-ENGINEERING-MITxPRO) | MIT xPRO | ETL Pipelines · Apache Airflow · Data Warehousing · dbt · Big Data | `🔜 Oct 2026` |
+| 🎓 [**ASU-BS-Data-Science**](https://github.com/ASebastianAiX/ASU-BS-Data-Science) | Arizona State University | BS Data Science · Software Dev & BI Analytics · Fully Online | `🔄 May 2026–Dec 2027` |
 
-### 🔒 Production Platforms — Near Launch *(Private)*
+### 🔒 Production Platforms — Active & Near Launch
 
-| Platform | Description | Stack |
-|:---------|:------------|:------|
-| 🏥 **medflow-ai** | Healthcare Intelligence — AI Patient Data Extraction & EHR · HIPAA-compliant | Python · OpenAI · HIPAA · FastAPI |
-| 🏗️ **buildflow-ai** | Construction Intelligence — AI-Powered Bid Estimation, SOW & Risk Analysis | Python · AI · FastAPI · React |
-| 🏖️ **boho-beach-club-ai** | Luxury Event Operations — AI customer support, revenue analytics & fraud detection | Python · AI · React · PostgreSQL |
+| Platform | Description | Stack | Status |
+|:---------|:------------|:------|:------:|
+| 🥋 **AxioMove AI** *(Private)* | AI OS for martial arts & fitness — CRM · billing · scheduling · marketing · analytics · AI co-pilot | Python · Streamlit · OpenAI · SQLite | `🔒 Private Demo` |
+| 🎨 **Lumina Concierge** | AI luxury brand experience — live, social media integration pending | Python · Streamlit · AI | `🟡 Live · Integrating` |
+| 🏥 **medflow-ai** | Healthcare Intelligence — AI Patient Data Extraction & EHR · HIPAA-compliant | Python · OpenAI · HIPAA · FastAPI | `🔒 Near Launch` |
+| 🏗️ **buildflow-ai** | Construction Intelligence — AI-Powered Bid Estimation, SOW & Risk Analysis | Python · AI · FastAPI · React | `🔒 Near Launch` |
+| 🏖️ **boho-beach-club-ai** | Luxury Event Operations — AI customer support, revenue analytics & fraud detection | Python · AI · React · PostgreSQL | `🔒 Near Launch` |
+| 🏗️ **kreative-construction** | Construction Business Intelligence · Project Tracking · Client AI | Python · AI · FastAPI | `🔜 In Development` |
+| 🔵 **urcircle** | Community & Network Intelligence · Social AI Platform | Python · AI · React | `🔜 In Development` |
 
 ---
 
@@ -112,26 +101,26 @@
 
 🟠 &nbsp;**Business Science University** &nbsp;·&nbsp; ⭐ Flagship &nbsp;·&nbsp; 🏆 **Capstone Competition Winner · Fully Certified**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Dec 2025 – Apr 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/7%2F7%20Modules%20✅-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/40%2B%20Projects-f0883e?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏆%20Capstone%20Winner-c9a84c?style=flat-square) &nbsp;![](https://img.shields.io/badge/🎓%20Certified-3fb950?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAG · LangGraph · AI Agents · Multi-Agent · SQL Agents · AWS Bedrock · MCP · Production Deployment · Portfolio Submission Complete
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAG · LangGraph · AI Agents · Multi-Agent · SQL Agents · AWS Bedrock · MCP · Production Deployment
 
 🔵 &nbsp;**University of Texas at Austin — McCombs School of Business**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Nov 2025 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/6%2F9%20Projects-58a6ff?style=flat-square)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FoodHub Analysis · Personal Loan Campaign (85%+ accuracy) · Easy Visa · ML Algorithms · NLP · EDA
 
-🟣 &nbsp;**Purdue University / Simplilearn**
+🟣 &nbsp;**Microsoft AI Engineer Professional Certificate**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Jan 2026 – Aug 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/14%2F23%20Projects-bc8cff?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azure AI · NLP · Computer Vision · Sales Analysis · Walmart · Mercedes-Benz · Employee Turnover
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azure AI · NLP · Computer Vision · GitHub Copilot · Sales · Walmart · Mercedes-Benz · Employee Turnover
 
 🔴 &nbsp;**Johns Hopkins University — Whiting School of Engineering**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Feb 2026 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/3%2F9%20Projects-f85149?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Network Security · AI Security · Threat Modeling · Risk Management · AI Ethics · GDPR
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Network Security · AI Security · Threat Modeling · Risk Management · AI Ethics · HIPAA · GDPR
 
-🟢 &nbsp;**Purdue University / Simplilearn**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Oct 2026 – Apr 2027` &nbsp;·&nbsp; ![](https://img.shields.io/badge/Enrolled-3fb950?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ETL Pipelines · Apache Airflow · Data Warehousing · dbt · Big Data · Data Governance
+📊 &nbsp;**Massachusetts Institute of Technology — MIT xPRO**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Oct 2026 – Apr 2027` &nbsp;·&nbsp; ![](https://img.shields.io/badge/Enrolled-58a6ff?style=flat-square) &nbsp;![](https://img.shields.io/badge/6%20Months-161b22?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Engineering · ETL Pipelines · Apache Airflow · Data Warehousing · dbt · Big Data · Cloud Infrastructure
 
 🔵 &nbsp;**Arizona State University — Fully Online**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`May 2026 – Dec 2027` &nbsp;·&nbsp; ![](https://img.shields.io/badge/In%20Progress-58a6ff?style=flat-square) &nbsp;![](https://img.shields.io/badge/BS%20Data%20Science-161b22?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`May 2026 – Dec 2027` &nbsp;·&nbsp; ![](https://img.shields.io/badge/In%20Progress-bc8cff?style=flat-square) &nbsp;![](https://img.shields.io/badge/BS%20Data%20Science-8C1D40?style=flat-square)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Concentration: Software Development — Business Intelligence Analytics · Statistical Learning · Data Mining
 
 <details>
@@ -173,6 +162,7 @@
 ![Prophet](https://img.shields.io/badge/Prophet-0068C8?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 **Cloud, Dev & Healthcare**
 
@@ -191,7 +181,8 @@
 
 | &nbsp; | Edge | What It Means |
 |:------:|:-----|:--------------|
-| 🏆 | **Capstone Competition Winner · Certified** | BSU GenAI 2026 — full certification earned with portfolio submission complete |
+| 🏆 | **Capstone Competition Winner · Certified** | BSU GenAI 2026 — full certification earned, portfolio submission accepted |
+| 🥋 | **25 Years on the Mat** | AxioMove AI built by a real studio operator — domain depth that can't be faked |
 | 🏭 | **Production Over Academic** | 70+ projects — Python production systems, AI pipelines, deployed apps. Not notebooks. |
 | 🏥 | **35 Years Domain Depth** | Healthcare ops + Epic EMR across ICU, NICU, PICU, ER — irreplaceable real-world context |
 | 💼 | **P&L Accountability** | 20 years business ownership — AI built for ROI, not just accuracy metrics |
@@ -207,6 +198,19 @@
 ![Open To](https://img.shields.io/badge/Open%20To-Full--time%20%7C%20Contract%20%7C%20Consulting-58a6ff?style=for-the-badge)
 &nbsp;
 ![Auth](https://img.shields.io/badge/Work%20Auth-🇺🇸%20US%20+%20🇪🇺%20EU-bc8cff?style=for-the-badge)
+
+<br>
+
+[![Website](https://img.shields.io/badge/🌐%20apolloaix.com-0d1117?style=for-the-badge)](https://apolloaix.com/)
+&nbsp;
+[![📧 Email](https://img.shields.io/badge/📧%20Apollo.Sebastian@apolloaix.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Apollo.Sebastian@apolloaix.com)
+&nbsp;
+[![📱 WhatsApp](https://img.shields.io/badge/📱%20%2B1%20(702)%20313--0452-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/17023130452)
+
+<br>
+
+**Primary language: Python** — production scripts, FastAPI services, AI pipelines, and deployed systems.
+Notebooks are used for coursework and exploratory analysis only.
 
 <br>
 
