@@ -4,7 +4,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=860&height=40&lines=🎓+3+CERTIFICATIONS+EARNED+IN+2026;🏆+CAPSTONE+COMPETITION+WINNER+—+BSU+GenAI+2026;🏛️+UT+AUSTIN+McCOMBS+·+PGP+AI+%2F+ML+—+CERTIFIED+AUG+2026;🟣+MICROSOFT+AI+ENGINEER+PROGRAM+—+CERTIFIED+JUN+2026;🟠+BSU+GENERATIVE+AI+DATA+SCIENTIST+—+92%2F100;🎓+BS+Data+Science+@+Arizona+State+·+Senior+Level;🛡️+Cybersecurity+@+Johns+Hopkins+·+Whiting+School;⚡+35%2B+Years+Operations+·+75%2B+Projects+Shipped;🤖+RAG+·+LangGraph+·+Multi-Agent+·+AWS+Bedrock+·+MCP;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.;💼+Open+to+Full-Time+·+Contract+·+Consulting+—+US+%2B+EU)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=860&height=40&lines=🎓+4+CERTIFICATIONS+EARNED+IN+2026;🏆+CAPSTONE+COMPETITION+WINNER+—+BSU+GenAI+2026;🏛️+UT+AUSTIN+McCOMBS+·+PGP+AI+%2F+ML+—+CERTIFIED+AUG+2026;🟣+MICROSOFT+AI+ENGINEER+PROGRAM+—+CERTIFIED+JUN+2026;🟠+BSU+GENERATIVE+AI+DATA+SCIENTIST+—+92%2F100;🎓+BS+Data+Science+@+Arizona+State+·+Senior+Level;🛡️+JOHNS+HOPKINS+WHITING+·+CYBERSECURITY+—+CERTIFIED+AUG+2026;⚡+35%2B+Years+Operations+·+75%2B+Projects+Shipped;🤖+RAG+·+LangGraph+·+Multi-Agent+·+AWS+Bedrock+·+MCP;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.;💼+Open+to+Full-Time+·+Contract+·+Consulting+—+US+%2B+EU)
 
 <br>
 
@@ -35,12 +35,13 @@
 
 # 🎓 CREDENTIALS EARNED · 2026
 
-### `Three programs completed. Five in flight. All feeding production.`
+### `Four programs completed. Four in flight. All feeding production.`
 
 </div>
 
 | | Credential | Institution | Awarded | Result |
 |:---:|:-----------|:------------|:--------|:-------|
+| 🛡️ | **Professional Certificate in Cybersecurity: IT and Data Security in the Age of AI** | **Johns Hopkins University** · Whiting School of Engineering | **August 2026** | ✅ Completed |
 | 🏛️ | **Post Graduate Program in Artificial Intelligence & Machine Learning: Business Applications** | **University of Texas at Austin** · McCombs School of Business · Texas Executive Education | **August 2026** | ✅ Conferred · 9.5 CEUs · **[Verify ↗](https://vrfy.digital/nzgdhdli)** |
 | 🟣 | **Microsoft AI Engineer Program** | **Microsoft** · issued via Simplilearn | **6 June 2026** | ✅ Completed |
 | 🟠 | **Generative AI Data Scientist for Business** | **Business Science University** · AI Bootcamp Certification | **3 June 2026** | 🏆 **92 / 100** · Capstone Winner · ID `BSU-GAI-DS-2026-001` |
@@ -49,8 +50,12 @@
 >
 > 🟠 **BSU** — Certification recognizes demonstrated ability to design, build, and deploy production generative AI applications for business: agentic workflows, RAG, SQL and data-driven AI, OpenAI tool/function calling, Streamlit development, cloud deployment, and business problem framing. Portfolio-gated — required two independent Streamlit applications, one publicly deployed cloud application, project walkthroughs, and a business-facing one-page summary. Signed by Matt Dancho, Founder.
 
+> 🛡️ **Johns Hopkins** — Whiting School of Engineering. Covers cryptography, malware detonation and analysis, the MITRE ATT&CK framework, Wireshark packet analysis, network security, vulnerability scanning, GDPR and data privacy, and AI ethics in security contexts.
+
 <div align="center">
 
+![Johns Hopkins](https://img.shields.io/badge/🛡️%20Johns%20Hopkins%20Whiting-CERTIFIED%20Aug%202026-002d72?style=for-the-badge)
+&nbsp;
 [![UT Austin](https://img.shields.io/badge/🏛️%20UT%20Austin%20McCombs-CERTIFIED%20Aug%202026%20·%20VERIFY%20↗-bf5700?style=for-the-badge)](https://vrfy.digital/nzgdhdli)
 &nbsp;
 ![Microsoft](https://img.shields.io/badge/🟣%20Microsoft%20AI%20Engineer-CERTIFIED%20Jun%202026-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -94,7 +99,7 @@
 
 | 🎓 | 🏆 | 75+ | 8 | 35+ | 20+ | 🌍 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **3 CERTS** | **CAPSTONE** | **PROJECTS** | **ELITE** | **YEARS** | **DEPLOYED** | **US + EU** |
+| **4 CERTS** | **CAPSTONE** | **PROJECTS** | **ELITE** | **YEARS** | **DEPLOYED** | **US + EU** |
 | **EARNED 2026** | **WINNER** | **SHIPPED** | **PROGRAMS** | **OPS** | **SYSTEMS** | **WORK AUTH** |
 
 </div>
@@ -120,6 +125,7 @@ class Apollo(AppliedAIArchitect):
 
     # ── Certified · 2026 ──
     credentials   =  {
+        "Johns Hopkins · Whiting":"Cybersecurity: IT & Data Security in the Age of AI — Aug 2026",
         "UT Austin · McCombs":   "PGP in AI & ML: Business Applications — Aug 2026 · 9.5 CEUs",
         "Microsoft":             "AI Engineer Program — 06 Jun 2026",
         "Business Science Univ": "GenAI Data Scientist for Business — 03 Jun 2026 · 92/100 🏆",
@@ -351,7 +357,7 @@ class Apollo(AppliedAIArchitect):
 | 🎓 [**Ai-MACHINE-LEARNING**](https://github.com/ASebastianAiX/Ai-MACHINE-LEARNING) | UT Austin · McCombs | Machine Learning · Predictive Modeling · NLP · Medical AI | Nov 2025 – Aug 2026 | `🎓 Certified` |
 | ⚙️ [**AI-ENGINEERING-**](https://github.com/ASebastianAiX/AI-ENGINEERING-) | Microsoft · AI Engineer Program | Azure AI · NLP · Computer Vision · GitHub Copilot | Jan 2026 – Jun 2026 | `🎓 Certified` |
 | 🟠 **BSU-FORECAST-ENGINEER** *(repo coming)* | Business Science University | Time Series · Forecasting · Prophet · ARIMA · ML Pipelines | Aug 2026 – Oct 2026 | `🔄 In Progress` |
-| 🛡️ [**CYBERSECURITY**](https://github.com/ASebastianAiX/CYBERSECURITY) | Johns Hopkins · Whiting School | Cryptography · MITRE ATT&CK · Malware Analysis · Wireshark | Feb 2026 – Jul 2026 | `🔄 8/14` |
+| 🛡️ [**CYBERSECURITY**](https://github.com/ASebastianAiX/CYBERSECURITY) | Johns Hopkins · Whiting School | Cryptography · MITRE ATT&CK · Malware Analysis · Wireshark | Feb 2026 – Aug 2026 | `🎓 Certified` |
 | 🌐 [**MERN-FULLSTACK-MITxPRO**](https://github.com/ASebastianAiX/MERN-FULLSTACK-MITxPRO) | MIT xPRO | MongoDB · Express · React · Node.js · Full Stack Development | Jun 2026 – Dec 2026 | `🔄 In Progress` |
 | 📊 **USD-PRACTICAL-DATA-ENGINEERING** *(repo coming)* | University of San Diego · PCE | ETL · Data Extraction · Data Integration · SQL · RDBMS · AWS · Data Governance | Sep 2026 – May 2027 | `🔄 In Progress` |
 | 🎓 [**ASU-BS-Data-Science**](https://github.com/ASebastianAiX/ASU-BS-Data-Science) | Arizona State University | Senior Level · BS Data Science · Software Dev & BI Analytics | Jul 2026 – Dec 2027 | `🔄 In Progress` |
@@ -374,14 +380,14 @@ class Apollo(AppliedAIArchitect):
 
 <div align="center">
 
-### **Eight Programs · Seven Institutions · Three Certified in 2026**
+### **Eight Programs · Seven Institutions · Four Certified in 2026**
 
 | 🏆 | 🏛️ | 🟣 | 🎓 | 🛡️ | 🏛️ | 🔵 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **BSU** | **UT Austin** | **Microsoft** | **ASU** | **Johns Hopkins** | **MIT xPRO** | **USD** |
-| ✅ Certified · 92/100 | ✅ Certified Aug 2026 | ✅ Certified Jun 2026 | BS Data Science | Cybersecurity | MERN Full Stack | Data Engineering |
+| ✅ Certified · 92/100 | ✅ Certified Aug 2026 | ✅ Certified Jun 2026 | BS Data Science | ✅ Certified Aug 2026 | MERN Full Stack | Data Engineering |
 
-| 3 | 5 | 75+ | Dec 2027 |
+| 4 | 4 | 75+ | Dec 2027 |
 |:---:|:---:|:---:|:---:|
 | **Certifications Earned** | **Programs In Flight** | **Projects Complete** | **BS Degree Completion** |
 
@@ -448,12 +454,12 @@ class Apollo(AppliedAIArchitect):
 
 ---
 
-### 🛡️ **Johns Hopkins University** &nbsp;·&nbsp; Whiting School of Engineering &nbsp;·&nbsp; 🇺🇸
+### 🛡️ **Johns Hopkins University** &nbsp;·&nbsp; Whiting School of Engineering &nbsp;·&nbsp; 🇺🇸 &nbsp;·&nbsp; ✅ **CERTIFIED**
 
 > **One of the most prestigious research universities in the United States.** *Top 10 globally for engineering and applied sciences.*
 
-🔴 &nbsp;**Cybersecurity: IT & Data Security in the Age of AI**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Feb 2026 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/8%2F14%20Projects-f85149?style=flat-square) &nbsp;![](https://img.shields.io/badge/🛡️%20JHU%20Whiting-c9a84c?style=flat-square)
+🔴 &nbsp;**Professional Certificate in Cybersecurity: IT and Data Security in the Age of AI**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Feb 2026 – Aug 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/🎓%20Certified%20Aug%202026-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/14%2F14%20Projects-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/🛡️%20JHU%20Whiting-c9a84c?style=flat-square)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cryptography · CyberChef · Malware Detonation · MITRE ATT&CK Framework · Wireshark Packet Analysis · HostedScan · Network Security · GDPR · AI Ethics
 
 <br>
@@ -518,7 +524,7 @@ class Apollo(AppliedAIArchitect):
 
 | | The Edge | What It Actually Means |
 |:---:|:-----|:--------------|
-| 🎓 | **Three Certifications Earned in 2026** | UT Austin McCombs · Microsoft · Business Science University. Conferred, dated, verifiable. |
+| 🎓 | **Four Certifications Earned in 2026** | Johns Hopkins · UT Austin McCombs · Microsoft · Business Science University. Conferred, dated, verifiable. |
 | 🏆 | **Capstone Competition Winner · 92/100** | I beat an entire cohort of AI engineers in the BSU GenAI for Data Scientists Bootcamp. The work speaks. |
 | 🥋 | **25 Years on the Mat** | AxioMove AI built by a real studio operator — domain depth that can't be faked. |
 | 🏛️ | **Top-Tier Institution Stack** | MIT xPRO · Johns Hopkins · UT Austin · Arizona State · Microsoft · BSU · Univ. of San Diego. Eight programs, simultaneously. |
@@ -589,7 +595,7 @@ class Apollo(AppliedAIArchitect):
 
 <br>
 
-> ## *"Three certifications earned. 75+ projects shipped. Capstone winner. Eight elite programs."*
+> ## *"Four certifications earned. 75+ projects shipped. Capstone winner. Eight elite programs."*
 > ### *Still building. Every. Single. Week.*
 
 <br>
