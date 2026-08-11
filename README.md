@@ -4,7 +4,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=820&height=40&lines=🏆+CAPSTONE+COMPETITION+WINNER+—+BSU+GenAI+2026;🎓+BS+Data+Science+@+Arizona+State+·+Senior+Level;🛡️+Cybersecurity+@+Johns+Hopkins+·+Whiting+School;🏛️+MITxPRO+·+UT+Austin+·+Microsoft+·+ASU+·+JHU+·+BSU;⚡+35%2B+Years+Operations+·+75%2B+Projects+Shipped;🤖+RAG+·+LangGraph+·+Multi-Agent+·+AWS+Bedrock+·+MCP;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.;💼+Open+to+Full-Time+·+Contract+·+Consulting+—+US+%2B+EU)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=860&height=40&lines=🎓+3+CERTIFICATIONS+EARNED+IN+2026;🏆+CAPSTONE+COMPETITION+WINNER+—+BSU+GenAI+2026;🏛️+UT+AUSTIN+McCOMBS+·+PGP+AI+%2F+ML+—+CERTIFIED+AUG+2026;🟣+MICROSOFT+AI+ENGINEER+PROGRAM+—+CERTIFIED+JUN+2026;🟠+BSU+GENERATIVE+AI+DATA+SCIENTIST+—+92%2F100;🎓+BS+Data+Science+@+Arizona+State+·+Senior+Level;🛡️+Cybersecurity+@+Johns+Hopkins+·+Whiting+School;⚡+35%2B+Years+Operations+·+75%2B+Projects+Shipped;🤖+RAG+·+LangGraph+·+Multi-Agent+·+AWS+Bedrock+·+MCP;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.;💼+Open+to+Full-Time+·+Contract+·+Consulting+—+US+%2B+EU)
 
 <br>
 
@@ -26,6 +26,36 @@
 [![Instagram](https://img.shields.io/badge/@apollo__aix-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/apollo_aix)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Full_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASebastianAiX/APOLLO-Ai-PORTFOLIO)&nbsp;
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ASebastianAiX.ASebastianAiX&left_color=1a1f2e&right_color=0e75b6&left_text=Profile%20Views)
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎓 CREDENTIALS EARNED · 2026
+
+### `Three programs completed. Five in flight. All feeding production.`
+
+</div>
+
+| | Credential | Institution | Awarded | Result |
+|:---:|:-----------|:------------|:--------|:-------|
+| 🏛️ | **Post Graduate Program in Artificial Intelligence & Machine Learning: Business Applications** | **University of Texas at Austin** · McCombs School of Business · Texas Executive Education | **August 2026** | ✅ Conferred · 9.5 CEUs · **[Verify ↗](https://vrfy.digital/nzgdhdli)** |
+| 🟣 | **Microsoft AI Engineer Program** | **Microsoft** · issued via Simplilearn | **6 June 2026** | ✅ Completed |
+| 🟠 | **Generative AI Data Scientist for Business** | **Business Science University** · AI Bootcamp Certification | **3 June 2026** | 🏆 **92 / 100** · Capstone Winner · ID `BSU-GAI-DS-2026-001` |
+
+> 🏛️ **UT Austin** — Conferred by McCombs School of Business, signed by Gaylen Paulson, Ph.D. (Associate Dean & Executive Director, Texas Executive Education) and Kumar Muthuraman, Ph.D. (Faculty Director, Business Analytics & AI Programs).
+>
+> 🟠 **BSU** — Certification recognizes demonstrated ability to design, build, and deploy production generative AI applications for business: agentic workflows, RAG, SQL and data-driven AI, OpenAI tool/function calling, Streamlit development, cloud deployment, and business problem framing. Portfolio-gated — required two independent Streamlit applications, one publicly deployed cloud application, project walkthroughs, and a business-facing one-page summary. Signed by Matt Dancho, Founder.
+
+<div align="center">
+
+[![UT Austin](https://img.shields.io/badge/🏛️%20UT%20Austin%20McCombs-CERTIFIED%20Aug%202026%20·%20VERIFY%20↗-bf5700?style=for-the-badge)](https://vrfy.digital/nzgdhdli)
+&nbsp;
+![Microsoft](https://img.shields.io/badge/🟣%20Microsoft%20AI%20Engineer-CERTIFIED%20Jun%202026-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+&nbsp;
+![BSU](https://img.shields.io/badge/🟠%20BSU%20GenAI%20Data%20Scientist-92%2F100%20·%20🏆%20WINNER-f0883e?style=for-the-badge)
 
 </div>
 
@@ -62,10 +92,10 @@
 
 ## ⚡ AT A GLANCE
 
-| 🏆 | 75+ | 8 | 35+ | 20+ | 🌍 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **CAPSTONE** | **PROJECTS** | **ELITE** | **YEARS** | **DEPLOYED** | **US + EU** |
-| **WINNER** | **SHIPPED** | **PROGRAMS** | **OPS** | **SYSTEMS** | **WORK AUTH** |
+| 🎓 | 🏆 | 75+ | 8 | 35+ | 20+ | 🌍 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **3 CERTS** | **CAPSTONE** | **PROJECTS** | **ELITE** | **YEARS** | **DEPLOYED** | **US + EU** |
+| **EARNED 2026** | **WINNER** | **SHIPPED** | **PROGRAMS** | **OPS** | **SYSTEMS** | **WORK AUTH** |
 
 </div>
 
@@ -87,12 +117,20 @@ class Apollo(AppliedAIArchitect):
     achievement   =  "🏆 Capstone Competition Winner — BSU GenAI for Data Scientists 2026"
     deployments   =  20         # production AI/ML systems · growing weekly
     programs      =  8          # 7 elite certs + BS Data Science (ASU)
-    industries    =  ["Healthcare", "Martial Arts & Fitness", "Construction",
-                      "Hospitality", "Real Estate", "Small Business"]
+
+    # ── Certified · 2026 ──
+    credentials   =  {
+        "UT Austin · McCombs":   "PGP in AI & ML: Business Applications — Aug 2026 · 9.5 CEUs",
+        "Microsoft":             "AI Engineer Program — 06 Jun 2026",
+        "Business Science Univ": "GenAI Data Scientist for Business — 03 Jun 2026 · 92/100 🏆",
+    }
 
     # ── The Education Stack ──
     institutions  =  ["MIT xPRO 🏛️", "Johns Hopkins 🏛️", "UT Austin 🏛️",
-                      "Arizona State 🎓", "Microsoft 🏛️", "Business Science U 🏆"]
+                      "Arizona State 🎓", "Microsoft 🏛️", "Business Science U 🏆",
+                      "Univ. of San Diego 🔵"]
+    industries    =  ["Healthcare", "Martial Arts & Fitness", "Construction",
+                      "Hospitality", "Real Estate", "Small Business"]
 
     # ── Contact ──
     website       =  "apolloaix.com"
@@ -135,7 +173,7 @@ class Apollo(AppliedAIArchitect):
 
 `Python` `Streamlit` `LLMs`
 
-🔒 *Cert review · Launching soon*
+🏆 *Capstone winner · Live*
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -309,13 +347,13 @@ class Apollo(AppliedAIArchitect):
 
 | Repository | Institution | Focus | Dates | Status |
 |:-----------|:------------|:------|:------|:------:|
-| 🏆 [**GENERATIVE-AI-DATA-SCIENCE**](https://github.com/ASebastianAiX/GENERATIVE-AI-DATA-SCIENCE) | Business Science University | RAG · LangGraph · Multi-Agent · SQL Agents · AWS Bedrock · MCP | Nov 2025 – Apr 2026 | `🏆 Certified` |
-| 🟠 **BSU-FORECAST-ENGINEER** *(repo coming)* | Business Science University | Time Series · Forecasting · Prophet · ARIMA · ML Pipelines | Aug 2026 – Oct 2026 | `🔜 Starting Aug 10` |
-| 🎓 [**Ai-MACHINE-LEARNING**](https://github.com/ASebastianAiX/Ai-MACHINE-LEARNING) | UT Austin · McCombs | Machine Learning · Predictive Modeling · NLP · Medical AI | Nov 2025 – Jul 2026 | `🔄 9/11` |
-| ⚙️ [**AI-ENGINEERING-**](https://github.com/ASebastianAiX/AI-ENGINEERING-) | Microsoft · AI Engineer Certificate | Azure AI · NLP · Computer Vision · GitHub Copilot | Jan 2026 – Aug 2026 | `🔄 17/23` |
+| 🏆 [**GENERATIVE-AI-DATA-SCIENCE**](https://github.com/ASebastianAiX/GENERATIVE-AI-DATA-SCIENCE) | Business Science University | RAG · LangGraph · Multi-Agent · SQL Agents · AWS Bedrock · MCP | Nov 2025 – Jun 2026 | `🎓 Certified · 92/100` |
+| 🎓 [**Ai-MACHINE-LEARNING**](https://github.com/ASebastianAiX/Ai-MACHINE-LEARNING) | UT Austin · McCombs | Machine Learning · Predictive Modeling · NLP · Medical AI | Nov 2025 – Aug 2026 | `🎓 Certified` |
+| ⚙️ [**AI-ENGINEERING-**](https://github.com/ASebastianAiX/AI-ENGINEERING-) | Microsoft · AI Engineer Program | Azure AI · NLP · Computer Vision · GitHub Copilot | Jan 2026 – Jun 2026 | `🎓 Certified` |
+| 🟠 **BSU-FORECAST-ENGINEER** *(repo coming)* | Business Science University | Time Series · Forecasting · Prophet · ARIMA · ML Pipelines | Aug 2026 – Oct 2026 | `🔄 In Progress` |
 | 🛡️ [**CYBERSECURITY**](https://github.com/ASebastianAiX/CYBERSECURITY) | Johns Hopkins · Whiting School | Cryptography · MITRE ATT&CK · Malware Analysis · Wireshark | Feb 2026 – Jul 2026 | `🔄 8/14` |
 | 🌐 [**MERN-FULLSTACK-MITxPRO**](https://github.com/ASebastianAiX/MERN-FULLSTACK-MITxPRO) | MIT xPRO | MongoDB · Express · React · Node.js · Full Stack Development | Jun 2026 – Dec 2026 | `🔄 In Progress` |
-| 📊 [**AI-DATA-ENGINEERING-MITxPRO**](https://github.com/ASebastianAiX/AI-DATA-ENGINEERING-MITxPRO) | MIT xPRO | ETL Pipelines · Apache Airflow · Data Warehousing · dbt · Big Data | Sep 2026 – Mar 2027 | `🔜 Starting Sep 2026` |
+| 📊 **USD-PRACTICAL-DATA-ENGINEERING** *(repo coming)* | University of San Diego · PCE | ETL · Data Extraction · Data Integration · SQL · RDBMS · AWS · Data Governance | Sep 2026 – May 2027 | `🔄 In Progress` |
 | 🎓 [**ASU-BS-Data-Science**](https://github.com/ASebastianAiX/ASU-BS-Data-Science) | Arizona State University | Senior Level · BS Data Science · Software Dev & BI Analytics | Jul 2026 – Dec 2027 | `🔄 In Progress` |
 
 ### 🔒 Production Platforms — Active & Near Launch
@@ -324,34 +362,74 @@ class Apollo(AppliedAIArchitect):
 |:---------|:--------------|:------|:------:|
 | 🥋 **AxioMove AI** *(Private)* | AI OS for martial arts & fitness — CRM · billing · scheduling · marketing · analytics · AI co-pilot | Python · Streamlit · OpenAI · SQLite | `🔒 Private Demo` |
 | 🎨 **Lumina Concierge** | AI luxury brand experience — live, social media integration pending | Python · Streamlit · AI | `🟡 Live · Integrating` |
+| 🏗️ **BuildFlow AI** | AI-Powered Bid Estimation, SOW Generation & Risk Analysis | Python · Streamlit · AI | `🏆 Live · Capstone Winner` |
 | 🏥 **MedFlow AI** | AI Patient Data Extraction & EHR Workflow · HIPAA-aware | Python · OpenAI · FastAPI | `🔒 Near Launch` |
-| 🏗️ **BuildFlow AI** | AI-Powered Bid Estimation, SOW Generation & Risk Analysis | Python · AI · FastAPI | `🔒 Near Launch` |
 | 🏖️ **Boho Beach Club AI** | Luxury Event Ops · Customer Support · Revenue Analytics · Fraud Detection | Python · AI · React | `🔒 Near Launch` |
 | 🏗️ **Kreative Construction** | Construction Business Intelligence · Project Tracking · Client AI | Python · AI · FastAPI | `🔜 In Development` |
 | 🔵 **UrCIRCLE** | Community & Network Intelligence · Social AI Platform | Python · AI · React | `🔜 In Development` |
 
 ---
 
-## 🎓 Education & Active Certifications
+## 🎓 Education & Certifications
 
 <div align="center">
 
-### **Eight Concurrent Programs Across Six Elite Institutions**
+### **Eight Programs · Seven Institutions · Three Certified in 2026**
 
-| 🏆 | 🎓 | 🛡️ | 🏛️ | 🏛️ | ⭐ |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **BSU** | **ASU** | **Johns Hopkins** | **MIT xPRO** | **UT Austin** | **Microsoft** |
-| Capstone Winner | BS Data Science | Cybersecurity | MERN + Data Eng | Machine Learning | AI Engineering |
+| 🏆 | 🏛️ | 🟣 | 🎓 | 🛡️ | 🏛️ | 🔵 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **BSU** | **UT Austin** | **Microsoft** | **ASU** | **Johns Hopkins** | **MIT xPRO** | **USD** |
+| ✅ Certified · 92/100 | ✅ Certified Aug 2026 | ✅ Certified Jun 2026 | BS Data Science | Cybersecurity | MERN Full Stack | Data Engineering |
 
-| 8 | 75+ | 5 | Dec 2027 |
+| 3 | 5 | 75+ | Dec 2027 |
 |:---:|:---:|:---:|:---:|
-| **Concurrent Programs** | **Projects Complete** | **Elite Institutions** | **BS Degree Completion** |
+| **Certifications Earned** | **Programs In Flight** | **Projects Complete** | **BS Degree Completion** |
 
 </div>
 
 > **75+ completed projects** spanning Python production systems, AI pipelines, RAG, Multi-Agent architectures, SQL Agents, AWS Bedrock, MCP integrations, ML, Azure AI, Cybersecurity, Full Stack MERN development, and 7 platforms in active development or live. **Plus a BS in Data Science from Arizona State University — graduating December 2027.**
 >
 > *This isn't a curriculum. It's a delivery pipeline.*
+
+<br>
+
+---
+
+### 🏛️ **University of Texas at Austin** &nbsp;·&nbsp; McCombs School of Business &nbsp;·&nbsp; 🇺🇸 &nbsp;·&nbsp; ✅ **CERTIFIED**
+
+> **Top 20 business school in the United States.** *(U.S. News & World Report)*
+
+🔵 &nbsp;**Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Nov 2025 – Aug 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/🎓%20Certified%20Aug%202026-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/9.5%20CEUs-58a6ff?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏛️%20UT%20Austin%20McCombs-c9a84c?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presented by McCombs School of Business · Texas Executive Education &nbsp;·&nbsp; **[🔗 Verify Credential ↗](https://vrfy.digital/nzgdhdli)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FoodHub Analysis · Personal Loan Campaign (85%+ accuracy) · Easy Visa · Medical Assistant Problem Statement · Customer Churn Analysis · ML Algorithms · NLP · EDA
+
+<br>
+
+---
+
+### 🟣 **Microsoft** &nbsp;·&nbsp; AI Engineer Program &nbsp;·&nbsp; 🇺🇸 &nbsp;·&nbsp; ✅ **CERTIFIED**
+
+> **Aligned with the Microsoft Azure AI Engineer Associate certification path.**
+
+🟣 &nbsp;**Microsoft AI Engineer Program**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Jan 2026 – Jun 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/🎓%20Certified%2006%20Jun%202026-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/23%2F23%20Projects-bc8cff?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏛️%20Microsoft-c9a84c?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azure AI · NLP · Computer Vision · GitHub Copilot · Lending Club Loan Analysis · House Loan Analysis · Automating Port Operations
+
+<br>
+
+---
+
+### 🟠 **Business Science University** &nbsp;·&nbsp; ⭐ Flagship Programs &nbsp;·&nbsp; 🏆 Capstone Competition Winner
+
+🟠 &nbsp;**Generative AI Data Scientist for Business** &nbsp;·&nbsp; **✅ CERTIFIED · 🏆 CAPSTONE WINNER**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Nov 2025 – Jun 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/Score%2092%2F100-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/7%2F7%20Modules%20✅-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/40%2B%20Projects-f0883e?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏆%20Capstone%20Winner-c9a84c?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Awarded 2026-06-03** · Certificate ID `BSU-GAI-DS-2026-001`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAG · LangGraph · AI Agents · Multi-Agent · SQL Agents · OpenAI Tool/Function Calling · AWS Bedrock · MCP · Streamlit · Cloud Deployment · Business Problem Framing
+
+🟠 &nbsp;**Forecast Engineer Bootcamp** &nbsp;·&nbsp; **IN PROGRESS**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Aug 2026 – Oct 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/🔄%20In%20Progress-58a6ff?style=flat-square) &nbsp;![](https://img.shields.io/badge/8%20Weeks-161b22?style=flat-square) &nbsp;![](https://img.shields.io/badge/🟠%20BSU-f0883e?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time Series Forecasting · Predictive Analytics · Prophet · ARIMA · ML Forecasting Pipelines · Business Forecasting
 
 <br>
 
@@ -390,47 +468,31 @@ class Apollo(AppliedAIArchitect):
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Jun 2026 – Dec 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/In%20Progress-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏛️%20MIT%20xPRO-c9a84c?style=flat-square)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MongoDB · Express · React · Node.js · Full Stack Web Development · REST APIs · Database Design · End-to-End Deployment
 
-🟢 &nbsp;**Professional Certificate in Data Engineering**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Sep 2026 – Mar 2027` &nbsp;·&nbsp; ![](https://img.shields.io/badge/Enrolled-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏛️%20MIT%20xPRO-c9a84c?style=flat-square) &nbsp;![](https://img.shields.io/badge/6%20Months-161b22?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ETL Pipelines · Apache Airflow · Data Warehousing · dbt · Big Data · Cloud Infrastructure
-
 <br>
 
 ---
 
-### 🟠 **Business Science University** &nbsp;·&nbsp; ⭐ Flagship Programs &nbsp;·&nbsp; 🏆 Capstone Competition Winner
+### 🔵 **University of San Diego** &nbsp;·&nbsp; Professional & Continuing Education &nbsp;·&nbsp; 🇺🇸
 
-🟠 &nbsp;**Generative AI for Data Scientists — Professional Bootcamp** &nbsp;·&nbsp; **🏆 CAPSTONE WINNER · FULLY CERTIFIED**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Nov 2025 – Apr 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/7%2F7%20Modules%20✅-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/40%2B%20Projects-f0883e?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏆%20Capstone%20Winner-c9a84c?style=flat-square) &nbsp;![](https://img.shields.io/badge/🎓%20Certified-3fb950?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAG · LangGraph · AI Agents · Multi-Agent · SQL Agents · AWS Bedrock · MCP · Production Deployment
+> **Applied, cohort-based data engineering — built around production systems, not lecture theory.**
 
-🟠 &nbsp;**Forecast Engineer Bootcamp** &nbsp;·&nbsp; **NEW · Starting August 10, 2026**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Aug 2026 – Oct 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/Starting%20Aug%2010-f0883e?style=flat-square) &nbsp;![](https://img.shields.io/badge/8%20Weeks-161b22?style=flat-square) &nbsp;![](https://img.shields.io/badge/🟠%20BSU-f0883e?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time Series Forecasting · Predictive Analytics · Prophet · ARIMA · ML Forecasting Pipelines · Business Forecasting
+🔵 &nbsp;**Practical Data Engineering Certificate** &nbsp;·&nbsp; **IN PROGRESS**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Sep 2026 – May 2027` &nbsp;·&nbsp; ![](https://img.shields.io/badge/🔄%20In%20Progress-58a6ff?style=flat-square) &nbsp;![](https://img.shields.io/badge/28%20Weeks%20·%208%20Units-161b22?style=flat-square) &nbsp;![](https://img.shields.io/badge/4%20Courses-161b22?style=flat-square) &nbsp;![](https://img.shields.io/badge/🔵%20USD%20PCE-003b70?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An applied **28-week, 8-unit, four-course program** covering the principles, tools, architectures, and best practices required to design, build, integrate, and manage modern data systems.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ETL · Data Extraction · Scalable Pipelines · Data Integration · RDBMS · Storage Architecture · SQL · AWS · Data Processing · Governance · Privacy · Cloud-Based Data Systems
 
-<br>
+<div align="center">
 
----
+| Course | Title | Dates |
+|:---|:---|:---|
+| `PDE-X800` | Data Engineering Fundamentals | Sep 8 – Oct 26, 2026 |
+| `PDE-X801` | Practical Data Extraction | Oct 27 – Dec 14, 2026 |
+| `PDE-X802` | Practical Data Integration | Jan 19 – Mar 8, 2027 |
+| `PDE-X803` | Practical Data Engineering Capstone | Mar 16 – May 3, 2027 |
 
-### 🏛️ **University of Texas at Austin** &nbsp;·&nbsp; McCombs School of Business &nbsp;·&nbsp; 🇺🇸
+</div>
 
-> **Top 20 business school in the United States.** *(U.S. News & World Report)*
-
-🔵 &nbsp;**Post Graduate Program in AI & Machine Learning**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Nov 2025 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/9%2F11%20Projects-58a6ff?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏛️%20UT%20Austin-c9a84c?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FoodHub Analysis · Personal Loan Campaign (85%+ accuracy) · Easy Visa · Medical Assistant Problem Statement · Customer Churn Analysis · ML Algorithms · NLP · EDA
-
-<br>
-
----
-
-### 🟣 **Microsoft** &nbsp;·&nbsp; AI Engineer Professional Certificate &nbsp;·&nbsp; 🇺🇸
-
-> **Aligned with the Microsoft Azure AI Engineer Associate certification path.**
-
-🟣 &nbsp;**Professional Certificate in Microsoft AI Engineering**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Jan 2026 – Aug 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/17%2F23%20Projects-bc8cff?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏛️%20Microsoft-c9a84c?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azure AI · NLP · Computer Vision · GitHub Copilot · Lending Club Loan Analysis · House Loan Analysis · Automating Port Operations *(pending)*
+> 🎯 **Capstone:** Design an end-to-end **AWS data engineering solution** incorporating storage, compute, warehousing, pipeline architecture, and technical solution design. &nbsp;·&nbsp; **Expected completion: May 2027**
 
 <br>
 
@@ -456,9 +518,10 @@ class Apollo(AppliedAIArchitect):
 
 | | The Edge | What It Actually Means |
 |:---:|:-----|:--------------|
-| 🏆 | **Capstone Competition Winner** | I beat an entire cohort of AI engineers in the BSU GenAI for Data Scientists Bootcamp. The work speaks. |
+| 🎓 | **Three Certifications Earned in 2026** | UT Austin McCombs · Microsoft · Business Science University. Conferred, dated, verifiable. |
+| 🏆 | **Capstone Competition Winner · 92/100** | I beat an entire cohort of AI engineers in the BSU GenAI for Data Scientists Bootcamp. The work speaks. |
 | 🥋 | **25 Years on the Mat** | AxioMove AI built by a real studio operator — domain depth that can't be faked. |
-| 🏛️ | **Top-Tier Institution Stack** | MIT xPRO · Johns Hopkins · UT Austin · Arizona State · Microsoft · BSU. Eight programs, simultaneously. |
+| 🏛️ | **Top-Tier Institution Stack** | MIT xPRO · Johns Hopkins · UT Austin · Arizona State · Microsoft · BSU · Univ. of San Diego. Eight programs, simultaneously. |
 | 🎓 | **BS Data Science · Senior Level** | Graduating from Arizona State University in December 2027. Already in the home stretch. |
 | 🌐 | **Full Stack + AI** | MERN stack + AI pipelines = end-to-end systems from database to deployed intelligence. |
 | 🏭 | **Production > Academic** | 75+ shipped systems. Deployed apps. Real users. **Not notebooks.** |
@@ -526,7 +589,7 @@ class Apollo(AppliedAIArchitect):
 
 <br>
 
-> ## *"35 years of operations. 75+ projects shipped. Capstone winner. Eight elite programs."*
+> ## *"Three certifications earned. 75+ projects shipped. Capstone winner. Eight elite programs."*
 > ### *Still building. Every. Single. Week.*
 
 <br>
