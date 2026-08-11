@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=APOLLO_AiX&fontSize=64&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Applied%20AI%20Systems%20Architect%20·%20I%20Build%20AI%20That%20Ships&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=APOLLO_AiX&fontSize=64&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Applied%20AI%20Systems%20Architect%20%C2%B7%20I%20Build%20AI%20That%20Ships&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=860&height=40&lines=🎓+4+CERTIFICATIONS+EARNED+IN+2026;🏆+CAPSTONE+COMPETITION+WINNER+—+BSU+GenAI+2026;🏛️+UT+AUSTIN+McCOMBS+·+PGP+AI+%2F+ML+—+CERTIFIED+AUG+2026;🟣+MICROSOFT+AI+ENGINEER+PROGRAM+—+CERTIFIED+JUN+2026;🟠+BSU+GENERATIVE+AI+DATA+SCIENTIST+—+92%2F100;🎓+BS+Data+Science+@+Arizona+State+·+Senior+Level;🛡️+JOHNS+HOPKINS+WHITING+·+CYBERSECURITY+—+CERTIFIED+AUG+2026;⚡+35%2B+Years+Operations+·+75%2B+Projects+Shipped;🤖+RAG+·+LangGraph+·+Multi-Agent+·+AWS+Bedrock+·+MCP;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.;💼+Open+to+Full-Time+·+Contract+·+Consulting+—+US+%2B+EU)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=860&height=40&lines=🎓+4+CERTIFICATIONS+EARNED+IN+2026;🏆+CAPSTONE+COMPETITION+WINNER+—+BSU+GenAI+2026;🏛️+UT+AUSTIN+McCOMBS+·+PGP+AI+%2F+ML+—+CERTIFIED+AUG+2026;🟣+MICROSOFT+AI+ENGINEER+PROGRAM+—+CERTIFIED+JUN+2026;🟠+BSU+GENERATIVE+AI+DATA+SCIENTIST+—+92%2F100;🎓+BS+Data+Science+@+Arizona+State+·+Senior+Level;🛡️+JOHNS+HOPKINS+WHITING+·+CYBERSECURITY+—+CERTIFIED+AUG+2026;⚡+35%2B+Years+Operations+·+75%2B+Projects+Shipped;🟠+FORECAST+ENGINEER+BOOTCAMP+·+BSU+COHORT+01+—+IN+PROGRESS;🔵+USD+PRACTICAL+DATA+ENGINEERING+—+SEP+2026;🤖+RAG+·+LangGraph+·+Multi-Agent+·+AWS+Bedrock+·+MCP;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.;💼+Open+to+Full-Time+·+Contract+·+Consulting+—+US+%2B+EU)
 
 <br>
 
@@ -56,11 +56,11 @@
 
 ![Johns Hopkins](https://img.shields.io/badge/🛡️%20Johns%20Hopkins%20Whiting-CERTIFIED%20Aug%202026-002d72?style=for-the-badge)
 &nbsp;
-[![UT Austin](https://img.shields.io/badge/🏛️%20UT%20Austin%20McCombs-CERTIFIED%20Aug%202026%20·%20VERIFY%20↗-bf5700?style=for-the-badge)](https://vrfy.digital/nzgdhdli)
+[![UT Austin](https://img.shields.io/badge/🏛️%20UT%20Austin%20McCombs-CERTIFIED%20Aug%202026%20%C2%B7%20VERIFY%20↗-bf5700?style=for-the-badge)](https://vrfy.digital/nzgdhdli)
 &nbsp;
 ![Microsoft](https://img.shields.io/badge/🟣%20Microsoft%20AI%20Engineer-CERTIFIED%20Jun%202026-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 &nbsp;
-![BSU](https://img.shields.io/badge/🟠%20BSU%20GenAI%20Data%20Scientist-92%2F100%20·%20🏆%20WINNER-f0883e?style=for-the-badge)
+![BSU](https://img.shields.io/badge/🟠%20BSU%20GenAI%20Data%20Scientist-92%2F100%20%C2%B7%20🏆%20WINNER-f0883e?style=for-the-badge)
 
 </div>
 
@@ -356,10 +356,10 @@ class Apollo(AppliedAIArchitect):
 | 🏆 [**GENERATIVE-AI-DATA-SCIENCE**](https://github.com/ASebastianAiX/GENERATIVE-AI-DATA-SCIENCE) | Business Science University | RAG · LangGraph · Multi-Agent · SQL Agents · AWS Bedrock · MCP | Nov 2025 – Jun 2026 | `🎓 Certified · 92/100` |
 | 🎓 [**Ai-MACHINE-LEARNING**](https://github.com/ASebastianAiX/Ai-MACHINE-LEARNING) | UT Austin · McCombs | Machine Learning · Predictive Modeling · NLP · Medical AI | Nov 2025 – Aug 2026 | `🎓 Certified` |
 | ⚙️ [**AI-ENGINEERING-**](https://github.com/ASebastianAiX/AI-ENGINEERING-) | Microsoft · AI Engineer Program | Azure AI · NLP · Computer Vision · GitHub Copilot | Jan 2026 – Jun 2026 | `🎓 Certified` |
-| 🟠 **BSU-FORECAST-ENGINEER** *(repo coming)* | Business Science University | Time Series · Forecasting · Prophet · ARIMA · ML Pipelines | Aug 2026 – Oct 2026 | `🔄 In Progress` |
+| 🟠 **BSU-FORECAST-ENGINEER** *(private)* | Business Science University | Time Series · Forecasting · Prophet · ARIMA · Backtesting · Orchestration | Aug 2026 – Oct 2026 | `🔄 Cohort 01` |
 | 🛡️ [**CYBERSECURITY**](https://github.com/ASebastianAiX/CYBERSECURITY) | Johns Hopkins · Whiting School | Cryptography · MITRE ATT&CK · Malware Analysis · Wireshark | Feb 2026 – Aug 2026 | `🎓 Certified` |
 | 🌐 [**MERN-FULLSTACK-MITxPRO**](https://github.com/ASebastianAiX/MERN-FULLSTACK-MITxPRO) | MIT xPRO | MongoDB · Express · React · Node.js · Full Stack Development | Jun 2026 – Dec 2026 | `🔄 In Progress` |
-| 📊 **USD-PRACTICAL-DATA-ENGINEERING** *(repo coming)* | University of San Diego · PCE | ETL · Data Extraction · Data Integration · SQL · RDBMS · AWS · Data Governance | Sep 2026 – May 2027 | `🔄 In Progress` |
+| 📊 [**USD-PRACTICAL-DATA-ENGINEERING**](https://github.com/ASebastianAiX/USD-PRACTICAL-DATA-ENGINEERING) | University of San Diego · PCE | ETL · Data Extraction · Data Integration · SQL · RDBMS · AWS · Data Governance | Sep 2026 – May 2027 | `🔄 In Progress` |
 | 🎓 [**ASU-BS-Data-Science**](https://github.com/ASebastianAiX/ASU-BS-Data-Science) | Arizona State University | Senior Level · BS Data Science · Software Dev & BI Analytics | Jul 2026 – Dec 2027 | `🔄 In Progress` |
 
 ### 🔒 Production Platforms — Active & Near Launch
@@ -433,9 +433,27 @@ class Apollo(AppliedAIArchitect):
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Awarded 2026-06-03** · Certificate ID `BSU-GAI-DS-2026-001`
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAG · LangGraph · AI Agents · Multi-Agent · SQL Agents · OpenAI Tool/Function Calling · AWS Bedrock · MCP · Streamlit · Cloud Deployment · Business Problem Framing
 
-🟠 &nbsp;**Forecast Engineer Bootcamp** &nbsp;·&nbsp; **IN PROGRESS**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Aug 2026 – Oct 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/🔄%20In%20Progress-58a6ff?style=flat-square) &nbsp;![](https://img.shields.io/badge/8%20Weeks-161b22?style=flat-square) &nbsp;![](https://img.shields.io/badge/🟠%20BSU-f0883e?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time Series Forecasting · Predictive Analytics · Prophet · ARIMA · ML Forecasting Pipelines · Business Forecasting
+🟠 &nbsp;**Forecast Engineer Bootcamp** &nbsp;·&nbsp; **COHORT 01 · IN PROGRESS**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Aug 2026 – Oct 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/🔄%20In%20Progress-58a6ff?style=flat-square) &nbsp;![](https://img.shields.io/badge/8%20Weeks-161b22?style=flat-square) &nbsp;![](https://img.shields.io/badge/8%20Clinics-161b22?style=flat-square) &nbsp;![](https://img.shields.io/badge/Cohort%2001-f0883e?style=flat-square) &nbsp;![](https://img.shields.io/badge/🟠%20BSU-f0883e?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eight clinics and eight implementation sprints building one production forecasting lifecycle — **not eight topics, one operating system slowed down a decision at a time.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time Series Forecasting · Prophet · ARIMA/SARIMAX · Multi-Model Research · Backtesting & Promotion · Orchestration & Monitoring · Whole-Business Planning
+
+<div align="center">
+
+| # | Clinic | Deliverable |
+|:---:|:---|:---|
+| 1 | Set Up Your Forecast System | High-Performance Forecasting System Blueprint |
+| 2 | Build Forecast-Ready Data Pipelines | The Forecast-Ready Data Pipeline |
+| 3 | Feature Engineering & Multi-Model Experiments | Multi-Model Forecasting Research Engine |
+| 4 | Evaluate Forecasts | Decision-Ready Forecast Evaluation Framework |
+| 5 | Backtest Models & Promotion | Forecast Backtesting & Promotion System |
+| 6 | Package, Review & Operate | Forecast Packaging & Operator Workflow |
+| 7 | Orchestrate, Automate & Monitor | Orchestration, Automation & Monitoring Playbook |
+| 8 | Plan the Whole Business | Whole-Business Forecast Planning Framework |
+
+</div>
+
+> 🎓 **Forecast Engineer Certification** submission due **October 16, 2026** &nbsp;·&nbsp; 🔒 Working repo is private during the cohort
 
 <br>
 
@@ -483,8 +501,8 @@ class Apollo(AppliedAIArchitect):
 > **Applied, cohort-based data engineering — built around production systems, not lecture theory.**
 
 🔵 &nbsp;**Practical Data Engineering Certificate** &nbsp;·&nbsp; **IN PROGRESS**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Sep 2026 – May 2027` &nbsp;·&nbsp; ![](https://img.shields.io/badge/🔄%20In%20Progress-58a6ff?style=flat-square) &nbsp;![](https://img.shields.io/badge/28%20Weeks%20·%208%20Units-161b22?style=flat-square) &nbsp;![](https://img.shields.io/badge/4%20Courses-161b22?style=flat-square) &nbsp;![](https://img.shields.io/badge/🔵%20USD%20PCE-003b70?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An applied **28-week, 8-unit, four-course program** covering the principles, tools, architectures, and best practices required to design, build, integrate, and manage modern data systems.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Sep 2026 – May 2027` &nbsp;·&nbsp; ![](https://img.shields.io/badge/🔄%20In%20Progress-58a6ff?style=flat-square) &nbsp;![](https://img.shields.io/badge/28%20Weeks-161b22?style=flat-square) &nbsp;![](https://img.shields.io/badge/8%20Units-161b22?style=flat-square) &nbsp;![](https://img.shields.io/badge/4%20Courses-161b22?style=flat-square) &nbsp;![](https://img.shields.io/badge/University%20of%20San%20Diego-003B70?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An applied **28-week, 8-unit, four-course program** covering the principles, tools, architectures, and best practices required to design, build, integrate, and manage modern data systems. &nbsp;·&nbsp; **[📂 Repo ↗](https://github.com/ASebastianAiX/USD-PRACTICAL-DATA-ENGINEERING)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ETL · Data Extraction · Scalable Pipelines · Data Integration · RDBMS · Storage Architecture · SQL · AWS · Data Processing · Governance · Privacy · Cloud-Based Data Systems
 
 <div align="center">
@@ -584,9 +602,9 @@ class Apollo(AppliedAIArchitect):
 
 ![Available](https://img.shields.io/badge/🟢%20Status-Available%20Now-3fb950?style=for-the-badge)
 &nbsp;
-![Open To](https://img.shields.io/badge/Open%20To-Full--time%20·%20Contract%20·%20Consulting-58a6ff?style=for-the-badge)
+![Open To](https://img.shields.io/badge/Open%20To-Full--time%20%C2%B7%20Contract%20%C2%B7%20Consulting-58a6ff?style=for-the-badge)
 &nbsp;
-![Auth](https://img.shields.io/badge/Work%20Auth-🇺🇸%20US%20·%20🇪🇺%20EU-bc8cff?style=for-the-badge)
+![Auth](https://img.shields.io/badge/Work%20Auth-🇺🇸%20US%20%C2%B7%20🇪🇺%20EU-bc8cff?style=for-the-badge)
 
 <br>
 
